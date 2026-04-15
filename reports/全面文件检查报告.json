@@ -1,0 +1,2986 @@
+{
+  "summary": {
+    "total_files": 197,
+    "valid_files": 197,
+    "invalid_files": 0,
+    "issues_count": 0,
+    "check_time": "2026-04-15T08:26:30.607089",
+    "issues_by_severity": {}
+  },
+  "issues": [],
+  "file_checks": {
+    ".\\.\\comprehensive_file_check.py": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "imports": [
+          "os",
+          "json",
+          "pandas",
+          "numpy",
+          "ast",
+          "re",
+          "datetime",
+          "typing"
+        ],
+        "defined_functions": [
+          "main",
+          "__init__",
+          "log_issue",
+          "check_json_file",
+          "check_python_file",
+          "check_excel_file",
+          "check_csv_file",
+          "check_markdown_file",
+          "analyze_coupling",
+          "run_check",
+          "generate_markdown_report"
+        ],
+        "defined_classes": [
+          "ComprehensiveFileChecker"
+        ]
+      }
+    },
+    ".\\.\\TOPSIS综合评价报告.json": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": []
+      }
+    },
+    ".\\.\\TOPSIS综合评价报告.md": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "has_title": true,
+        "sections": 47
+      }
+    },
+    ".\\.\\使用说明.md": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "has_title": true,
+        "sections": 17
+      }
+    },
+    ".\\.\\数据字典.json": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": []
+      }
+    },
+    ".\\.\\文件检查与TOPSIS分析完成总结.md": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "has_title": true,
+        "sections": 26
+      }
+    },
+    ".\\.\\熵权法权重分析报告.json": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": []
+      }
+    },
+    ".\\.\\熵权法权重分析报告.md": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "has_title": true,
+        "sections": 47
+      }
+    },
+    ".\\.\\项目整理总结.md": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "has_title": true,
+        "sections": 18
+      }
+    },
+    ".\\.\\code\\analyze_files.py": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "imports": [
+          "pandas",
+          "os"
+        ],
+        "defined_functions": [],
+        "defined_classes": []
+      }
+    },
+    ".\\.\\code\\check_and_topsis.py": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "imports": [
+          "os",
+          "pandas",
+          "numpy",
+          "json",
+          "datetime"
+        ],
+        "defined_functions": [
+          "check_file_integrity",
+          "fix_entropy_report",
+          "calculate_entropy_weight",
+          "topsis_analysis",
+          "generate_topsis_report",
+          "main"
+        ],
+        "defined_classes": []
+      }
+    },
+    ".\\.\\code\\data_processor.py": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "imports": [
+          "os",
+          "pandas",
+          "numpy",
+          "matplotlib.pyplot",
+          "seaborn",
+          "datetime",
+          "json",
+          "warnings",
+          "traceback"
+        ],
+        "defined_functions": [
+          "__init__",
+          "find_excel_files",
+          "pause_for_confirmation",
+          "visualize_data_distribution",
+          "visualize_outliers",
+          "parse_and_transform_data",
+          "load_data",
+          "clean_missing_values",
+          "remove_duplicates",
+          "handle_outliers",
+          "standardize_formats",
+          "min_max_normalization",
+          "create_data_dictionary",
+          "compare_before_after",
+          "save_data",
+          "save_data_dictionary",
+          "process_single_file",
+          "process_all_files"
+        ],
+        "defined_classes": [
+          "DataProcessor"
+        ]
+      }
+    },
+    ".\\.\\code\\data_processor_fast.py": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "imports": [
+          "os",
+          "pandas",
+          "numpy",
+          "datetime",
+          "json",
+          "warnings",
+          "traceback"
+        ],
+        "defined_functions": [
+          "__init__",
+          "find_excel_files",
+          "parse_and_transform_data",
+          "load_data",
+          "clean_missing_values",
+          "remove_duplicates",
+          "handle_outliers",
+          "standardize_formats",
+          "min_max_normalization",
+          "create_data_dictionary",
+          "save_data",
+          "save_data_dictionary",
+          "process_single_file",
+          "process_all_files"
+        ],
+        "defined_classes": [
+          "DataProcessorFast"
+        ]
+      }
+    },
+    ".\\.\\code\\debug_entropy.py": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "imports": [
+          "os",
+          "pandas",
+          "numpy"
+        ],
+        "defined_functions": [],
+        "defined_classes": []
+      }
+    },
+    ".\\.\\code\\entropy_weight_fix.py": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "imports": [
+          "os",
+          "pandas",
+          "numpy",
+          "datetime",
+          "json",
+          "traceback"
+        ],
+        "defined_functions": [
+          "calculate_entropy_weight",
+          "entropy_weight_analysis",
+          "generate_report",
+          "main"
+        ],
+        "defined_classes": []
+      }
+    },
+    ".\\.\\code\\final_processor.py": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "imports": [
+          "os",
+          "pandas",
+          "numpy",
+          "datetime",
+          "json",
+          "warnings",
+          "traceback"
+        ],
+        "defined_functions": [
+          "delete_processed_files",
+          "find_original_excel_files",
+          "parse_and_transform_data",
+          "process_single_file",
+          "main"
+        ],
+        "defined_classes": []
+      }
+    },
+    ".\\.\\code\\organize_project.py": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "imports": [
+          "os",
+          "shutil",
+          "pandas",
+          "numpy",
+          "datetime",
+          "json"
+        ],
+        "defined_functions": [
+          "delete_duplicate_processed_files",
+          "create_code_folder_and_move_scripts",
+          "get_file_mapping",
+          "rename_files",
+          "calculate_entropy_weight",
+          "entropy_weight_analysis",
+          "generate_report",
+          "main"
+        ],
+        "defined_classes": []
+      }
+    },
+    ".\\.\\code\\reorganize_project.py": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "imports": [
+          "os",
+          "shutil",
+          "pandas",
+          "numpy",
+          "datetime",
+          "json",
+          "traceback"
+        ],
+        "defined_functions": [
+          "delete_processed_files",
+          "rename_original_files",
+          "parse_and_transform_data",
+          "reprocess_all_files",
+          "calculate_entropy_weight",
+          "entropy_weight_analysis",
+          "generate_report",
+          "main"
+        ],
+        "defined_classes": []
+      }
+    },
+    ".\\.\\code\\run_processor.py": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "imports": [
+          "sys",
+          "data_processor",
+          "data_processor_fast"
+        ],
+        "defined_functions": [
+          "main"
+        ],
+        "defined_classes": []
+      }
+    },
+    ".\\.\\国民消费水平\\GDP及产业增长指数_1978=100.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          9,
+          11
+        ]
+      }
+    },
+    ".\\.\\国民消费水平\\GDP及产业增长指数_1978=100_20260415_081527_TOPSIS分析.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          6,
+          6
+        ]
+      }
+    },
+    ".\\.\\国民消费水平\\GDP及产业增长指数_1978=100_已处理_20260415_081527.csv": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "shape": [
+          6,
+          21
+        ]
+      }
+    },
+    ".\\.\\国民消费水平\\GDP及产业增长指数_1978=100_已处理_20260415_081527.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          6,
+          21
+        ]
+      }
+    },
+    ".\\.\\国民消费水平\\GDP及产业增长指数_上年=100.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          9,
+          11
+        ]
+      }
+    },
+    ".\\.\\国民消费水平\\GDP及产业增长指数_上年=100_20260415_081527_TOPSIS分析.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          6,
+          6
+        ]
+      }
+    },
+    ".\\.\\国民消费水平\\GDP及产业增长指数_上年=100_已处理_20260415_081527.csv": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "shape": [
+          6,
+          21
+        ]
+      }
+    },
+    ".\\.\\国民消费水平\\GDP及产业增长指数_上年=100_已处理_20260415_081527.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          6,
+          21
+        ]
+      }
+    },
+    ".\\.\\国民消费水平\\GDP增长拉动数据.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          8,
+          11
+        ]
+      }
+    },
+    ".\\.\\国民消费水平\\GDP增长拉动数据_20260415_081527_TOPSIS分析.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          5,
+          6
+        ]
+      }
+    },
+    ".\\.\\国民消费水平\\GDP增长拉动数据_已处理_20260415_081527.csv": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "shape": [
+          5,
+          21
+        ]
+      }
+    },
+    ".\\.\\国民消费水平\\GDP增长拉动数据_已处理_20260415_081527.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          5,
+          21
+        ]
+      }
+    },
+    ".\\.\\国民消费水平\\三次产业贡献率数据.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          8,
+          11
+        ]
+      }
+    },
+    ".\\.\\国民消费水平\\三次产业贡献率数据_20260415_081527_TOPSIS分析.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          5,
+          6
+        ]
+      }
+    },
+    ".\\.\\国民消费水平\\三次产业贡献率数据_已处理_20260415_081527.csv": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "shape": [
+          5,
+          21
+        ]
+      }
+    },
+    ".\\.\\国民消费水平\\三次产业贡献率数据_已处理_20260415_081527.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          5,
+          21
+        ]
+      }
+    },
+    ".\\.\\国民消费水平\\国民经济总量数据.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          9,
+          11
+        ]
+      }
+    },
+    ".\\.\\国民消费水平\\国民经济总量数据_20260415_081527_TOPSIS分析.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          6,
+          6
+        ]
+      }
+    },
+    ".\\.\\国民消费水平\\国民经济总量数据_已处理_20260415_081527.csv": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "shape": [
+          6,
+          21
+        ]
+      }
+    },
+    ".\\.\\国民消费水平\\国民经济总量数据_已处理_20260415_081527.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          6,
+          21
+        ]
+      }
+    },
+    ".\\.\\国民消费水平\\居民消费水平数据.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          12,
+          10
+        ]
+      }
+    },
+    ".\\.\\国民消费水平\\居民消费水平数据_20260415_081527_TOPSIS分析.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          9,
+          6
+        ]
+      }
+    },
+    ".\\.\\国民消费水平\\居民消费水平数据_已处理_20260415_081527.csv": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "shape": [
+          9,
+          19
+        ]
+      }
+    },
+    ".\\.\\国民消费水平\\居民消费水平数据_已处理_20260415_081527.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          9,
+          19
+        ]
+      }
+    },
+    ".\\.\\科技\\R&D研究与试验发展数据.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          35,
+          11
+        ]
+      }
+    },
+    ".\\.\\科技\\R&D研究与试验发展数据_20260415_081527_TOPSIS分析.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          32,
+          6
+        ]
+      }
+    },
+    ".\\.\\科技\\R&D研究与试验发展数据_已处理_20260415_081527.csv": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "shape": [
+          32,
+          21
+        ]
+      }
+    },
+    ".\\.\\科技\\R&D研究与试验发展数据_已处理_20260415_081527.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          32,
+          21
+        ]
+      }
+    },
+    ".\\.\\科技\\高等学校科技数据.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          38,
+          10
+        ]
+      }
+    },
+    ".\\.\\科技\\高等学校科技数据_20260415_081527_TOPSIS分析.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          35,
+          6
+        ]
+      }
+    },
+    ".\\.\\科技\\高等学校科技数据_已处理_20260415_081527.csv": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "shape": [
+          35,
+          19
+        ]
+      }
+    },
+    ".\\.\\科技\\高等学校科技数据_已处理_20260415_081527.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          35,
+          19
+        ]
+      }
+    },
+    ".\\.\\能源\\人均生活能源消费数据.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          10,
+          9
+        ]
+      }
+    },
+    ".\\.\\能源\\人均生活能源消费数据_20260415_081528_TOPSIS分析.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          7,
+          6
+        ]
+      }
+    },
+    ".\\.\\能源\\人均生活能源消费数据_已处理_20260415_081528.csv": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "shape": [
+          7,
+          17
+        ]
+      }
+    },
+    ".\\.\\能源\\人均生活能源消费数据_已处理_20260415_081528.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          7,
+          17
+        ]
+      }
+    },
+    ".\\.\\能源\\人均能源生产与消费数据.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          12,
+          10
+        ]
+      }
+    },
+    ".\\.\\能源\\人均能源生产与消费数据_20260415_081528_TOPSIS分析.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          9,
+          6
+        ]
+      }
+    },
+    ".\\.\\能源\\人均能源生产与消费数据_已处理_20260415_081528.csv": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "shape": [
+          9,
+          19
+        ]
+      }
+    },
+    ".\\.\\能源\\人均能源生产与消费数据_已处理_20260415_081528.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          9,
+          19
+        ]
+      }
+    },
+    ".\\.\\能源\\平均每天能源消费量数据.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          13,
+          9
+        ]
+      }
+    },
+    ".\\.\\能源\\平均每天能源消费量数据_20260415_081528_TOPSIS分析.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          10,
+          6
+        ]
+      }
+    },
+    ".\\.\\能源\\平均每天能源消费量数据_已处理_20260415_081528.csv": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "shape": [
+          10,
+          17
+        ]
+      }
+    },
+    ".\\.\\能源\\平均每天能源消费量数据_已处理_20260415_081528.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          10,
+          17
+        ]
+      }
+    },
+    ".\\.\\能源\\生活能源消费量数据.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          11,
+          9
+        ]
+      }
+    },
+    ".\\.\\能源\\生活能源消费量数据_20260415_081528_TOPSIS分析.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          8,
+          6
+        ]
+      }
+    },
+    ".\\.\\能源\\生活能源消费量数据_已处理_20260415_081528.csv": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "shape": [
+          8,
+          17
+        ]
+      }
+    },
+    ".\\.\\能源\\生活能源消费量数据_已处理_20260415_081528.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          8,
+          17
+        ]
+      }
+    },
+    ".\\.\\能源\\能源供需平衡数据.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          25,
+          11
+        ]
+      }
+    },
+    ".\\.\\能源\\能源供需平衡数据_20260415_081528_TOPSIS分析.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          22,
+          6
+        ]
+      }
+    },
+    ".\\.\\能源\\能源供需平衡数据_已处理_20260415_081528.csv": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "shape": [
+          22,
+          21
+        ]
+      }
+    },
+    ".\\.\\能源\\能源供需平衡数据_已处理_20260415_081528.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          22,
+          21
+        ]
+      }
+    },
+    ".\\.\\能源\\能源消费总量与结构数据.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          17,
+          11
+        ]
+      }
+    },
+    ".\\.\\能源\\能源消费总量与结构数据_20260415_081528_TOPSIS分析.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          14,
+          6
+        ]
+      }
+    },
+    ".\\.\\能源\\能源消费总量与结构数据_已处理_20260415_081528.csv": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "shape": [
+          14,
+          21
+        ]
+      }
+    },
+    ".\\.\\能源\\能源消费总量与结构数据_已处理_20260415_081528.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          14,
+          21
+        ]
+      }
+    },
+    ".\\.\\资源与环境\\供用水总量数据.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          15,
+          10
+        ]
+      }
+    },
+    ".\\.\\资源与环境\\供用水总量数据_20260415_081528_TOPSIS分析.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          12,
+          6
+        ]
+      }
+    },
+    ".\\.\\资源与环境\\供用水总量数据_已处理_20260415_081528.csv": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "shape": [
+          12,
+          19
+        ]
+      }
+    },
+    ".\\.\\资源与环境\\供用水总量数据_已处理_20260415_081528.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          12,
+          19
+        ]
+      }
+    },
+    ".\\.\\资源与环境\\大气环境污染物排放数据.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          6,
+          10
+        ]
+      }
+    },
+    ".\\.\\资源与环境\\大气环境污染物排放数据_20260415_081528_TOPSIS分析.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          3,
+          6
+        ]
+      }
+    },
+    ".\\.\\资源与环境\\大气环境污染物排放数据_已处理_20260415_081528.csv": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "shape": [
+          3,
+          19
+        ]
+      }
+    },
+    ".\\.\\资源与环境\\大气环境污染物排放数据_已处理_20260415_081528.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          3,
+          19
+        ]
+      }
+    },
+    ".\\.\\资源与环境\\工业污染治理投资数据.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          9,
+          10
+        ]
+      }
+    },
+    ".\\.\\资源与环境\\工业污染治理投资数据_20260415_081528_TOPSIS分析.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          6,
+          6
+        ]
+      }
+    },
+    ".\\.\\资源与环境\\工业污染治理投资数据_已处理_20260415_081528.csv": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "shape": [
+          6,
+          19
+        ]
+      }
+    },
+    ".\\.\\资源与环境\\工业污染治理投资数据_已处理_20260415_081528.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          6,
+          19
+        ]
+      }
+    },
+    ".\\.\\资源与环境\\森林资源数据.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          11,
+          6
+        ]
+      }
+    },
+    ".\\.\\资源与环境\\森林资源数据_20260415_081528_TOPSIS分析.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          8,
+          6
+        ]
+      }
+    },
+    ".\\.\\资源与环境\\森林资源数据_已处理_20260415_081528.csv": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "shape": [
+          8,
+          11
+        ]
+      }
+    },
+    ".\\.\\资源与环境\\森林资源数据_已处理_20260415_081528.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          8,
+          11
+        ]
+      }
+    },
+    ".\\.\\资源与环境\\水环境污染物排放数据.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          16,
+          10
+        ]
+      }
+    },
+    ".\\.\\资源与环境\\水环境污染物排放数据_20260415_081528_TOPSIS分析.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          13,
+          6
+        ]
+      }
+    },
+    ".\\.\\资源与环境\\水环境污染物排放数据_已处理_20260415_081528.csv": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "shape": [
+          13,
+          19
+        ]
+      }
+    },
+    ".\\.\\资源与环境\\水环境污染物排放数据_已处理_20260415_081528.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          13,
+          19
+        ]
+      }
+    },
+    ".\\.\\资源与环境\\水资源总量数据.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          8,
+          10
+        ]
+      }
+    },
+    ".\\.\\资源与环境\\水资源总量数据_20260415_081528_TOPSIS分析.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          5,
+          6
+        ]
+      }
+    },
+    ".\\.\\资源与环境\\水资源总量数据_已处理_20260415_081528.csv": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "shape": [
+          5,
+          19
+        ]
+      }
+    },
+    ".\\.\\资源与环境\\水资源总量数据_已处理_20260415_081528.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          5,
+          19
+        ]
+      }
+    },
+    ".\\.\\资源与环境\\环境污染治理投资数据.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          13,
+          10
+        ]
+      }
+    },
+    ".\\.\\资源与环境\\环境污染治理投资数据_20260415_081528_TOPSIS分析.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          10,
+          6
+        ]
+      }
+    },
+    ".\\.\\资源与环境\\环境污染治理投资数据_已处理_20260415_081528.csv": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "shape": [
+          10,
+          19
+        ]
+      }
+    },
+    ".\\.\\资源与环境\\环境污染治理投资数据_已处理_20260415_081528.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          10,
+          19
+        ]
+      }
+    },
+    ".\\code\\analyze_files.py": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "imports": [
+          "pandas",
+          "os"
+        ],
+        "defined_functions": [],
+        "defined_classes": []
+      }
+    },
+    ".\\code\\check_and_topsis.py": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "imports": [
+          "os",
+          "pandas",
+          "numpy",
+          "json",
+          "datetime"
+        ],
+        "defined_functions": [
+          "check_file_integrity",
+          "fix_entropy_report",
+          "calculate_entropy_weight",
+          "topsis_analysis",
+          "generate_topsis_report",
+          "main"
+        ],
+        "defined_classes": []
+      }
+    },
+    ".\\code\\data_processor.py": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "imports": [
+          "os",
+          "pandas",
+          "numpy",
+          "matplotlib.pyplot",
+          "seaborn",
+          "datetime",
+          "json",
+          "warnings",
+          "traceback"
+        ],
+        "defined_functions": [
+          "__init__",
+          "find_excel_files",
+          "pause_for_confirmation",
+          "visualize_data_distribution",
+          "visualize_outliers",
+          "parse_and_transform_data",
+          "load_data",
+          "clean_missing_values",
+          "remove_duplicates",
+          "handle_outliers",
+          "standardize_formats",
+          "min_max_normalization",
+          "create_data_dictionary",
+          "compare_before_after",
+          "save_data",
+          "save_data_dictionary",
+          "process_single_file",
+          "process_all_files"
+        ],
+        "defined_classes": [
+          "DataProcessor"
+        ]
+      }
+    },
+    ".\\code\\data_processor_fast.py": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "imports": [
+          "os",
+          "pandas",
+          "numpy",
+          "datetime",
+          "json",
+          "warnings",
+          "traceback"
+        ],
+        "defined_functions": [
+          "__init__",
+          "find_excel_files",
+          "parse_and_transform_data",
+          "load_data",
+          "clean_missing_values",
+          "remove_duplicates",
+          "handle_outliers",
+          "standardize_formats",
+          "min_max_normalization",
+          "create_data_dictionary",
+          "save_data",
+          "save_data_dictionary",
+          "process_single_file",
+          "process_all_files"
+        ],
+        "defined_classes": [
+          "DataProcessorFast"
+        ]
+      }
+    },
+    ".\\code\\debug_entropy.py": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "imports": [
+          "os",
+          "pandas",
+          "numpy"
+        ],
+        "defined_functions": [],
+        "defined_classes": []
+      }
+    },
+    ".\\code\\entropy_weight_fix.py": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "imports": [
+          "os",
+          "pandas",
+          "numpy",
+          "datetime",
+          "json",
+          "traceback"
+        ],
+        "defined_functions": [
+          "calculate_entropy_weight",
+          "entropy_weight_analysis",
+          "generate_report",
+          "main"
+        ],
+        "defined_classes": []
+      }
+    },
+    ".\\code\\final_processor.py": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "imports": [
+          "os",
+          "pandas",
+          "numpy",
+          "datetime",
+          "json",
+          "warnings",
+          "traceback"
+        ],
+        "defined_functions": [
+          "delete_processed_files",
+          "find_original_excel_files",
+          "parse_and_transform_data",
+          "process_single_file",
+          "main"
+        ],
+        "defined_classes": []
+      }
+    },
+    ".\\code\\organize_project.py": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "imports": [
+          "os",
+          "shutil",
+          "pandas",
+          "numpy",
+          "datetime",
+          "json"
+        ],
+        "defined_functions": [
+          "delete_duplicate_processed_files",
+          "create_code_folder_and_move_scripts",
+          "get_file_mapping",
+          "rename_files",
+          "calculate_entropy_weight",
+          "entropy_weight_analysis",
+          "generate_report",
+          "main"
+        ],
+        "defined_classes": []
+      }
+    },
+    ".\\code\\reorganize_project.py": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "imports": [
+          "os",
+          "shutil",
+          "pandas",
+          "numpy",
+          "datetime",
+          "json",
+          "traceback"
+        ],
+        "defined_functions": [
+          "delete_processed_files",
+          "rename_original_files",
+          "parse_and_transform_data",
+          "reprocess_all_files",
+          "calculate_entropy_weight",
+          "entropy_weight_analysis",
+          "generate_report",
+          "main"
+        ],
+        "defined_classes": []
+      }
+    },
+    ".\\code\\run_processor.py": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "imports": [
+          "sys",
+          "data_processor",
+          "data_processor_fast"
+        ],
+        "defined_functions": [
+          "main"
+        ],
+        "defined_classes": []
+      }
+    },
+    ".\\国民消费水平\\GDP及产业增长指数_1978=100.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          9,
+          11
+        ]
+      }
+    },
+    ".\\国民消费水平\\GDP及产业增长指数_1978=100_20260415_081527_TOPSIS分析.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          6,
+          6
+        ]
+      }
+    },
+    ".\\国民消费水平\\GDP及产业增长指数_1978=100_已处理_20260415_081527.csv": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "shape": [
+          6,
+          21
+        ]
+      }
+    },
+    ".\\国民消费水平\\GDP及产业增长指数_1978=100_已处理_20260415_081527.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          6,
+          21
+        ]
+      }
+    },
+    ".\\国民消费水平\\GDP及产业增长指数_上年=100.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          9,
+          11
+        ]
+      }
+    },
+    ".\\国民消费水平\\GDP及产业增长指数_上年=100_20260415_081527_TOPSIS分析.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          6,
+          6
+        ]
+      }
+    },
+    ".\\国民消费水平\\GDP及产业增长指数_上年=100_已处理_20260415_081527.csv": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "shape": [
+          6,
+          21
+        ]
+      }
+    },
+    ".\\国民消费水平\\GDP及产业增长指数_上年=100_已处理_20260415_081527.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          6,
+          21
+        ]
+      }
+    },
+    ".\\国民消费水平\\GDP增长拉动数据.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          8,
+          11
+        ]
+      }
+    },
+    ".\\国民消费水平\\GDP增长拉动数据_20260415_081527_TOPSIS分析.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          5,
+          6
+        ]
+      }
+    },
+    ".\\国民消费水平\\GDP增长拉动数据_已处理_20260415_081527.csv": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "shape": [
+          5,
+          21
+        ]
+      }
+    },
+    ".\\国民消费水平\\GDP增长拉动数据_已处理_20260415_081527.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          5,
+          21
+        ]
+      }
+    },
+    ".\\国民消费水平\\三次产业贡献率数据.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          8,
+          11
+        ]
+      }
+    },
+    ".\\国民消费水平\\三次产业贡献率数据_20260415_081527_TOPSIS分析.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          5,
+          6
+        ]
+      }
+    },
+    ".\\国民消费水平\\三次产业贡献率数据_已处理_20260415_081527.csv": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "shape": [
+          5,
+          21
+        ]
+      }
+    },
+    ".\\国民消费水平\\三次产业贡献率数据_已处理_20260415_081527.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          5,
+          21
+        ]
+      }
+    },
+    ".\\国民消费水平\\国民经济总量数据.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          9,
+          11
+        ]
+      }
+    },
+    ".\\国民消费水平\\国民经济总量数据_20260415_081527_TOPSIS分析.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          6,
+          6
+        ]
+      }
+    },
+    ".\\国民消费水平\\国民经济总量数据_已处理_20260415_081527.csv": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "shape": [
+          6,
+          21
+        ]
+      }
+    },
+    ".\\国民消费水平\\国民经济总量数据_已处理_20260415_081527.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          6,
+          21
+        ]
+      }
+    },
+    ".\\国民消费水平\\居民消费水平数据.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          12,
+          10
+        ]
+      }
+    },
+    ".\\国民消费水平\\居民消费水平数据_20260415_081527_TOPSIS分析.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          9,
+          6
+        ]
+      }
+    },
+    ".\\国民消费水平\\居民消费水平数据_已处理_20260415_081527.csv": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "shape": [
+          9,
+          19
+        ]
+      }
+    },
+    ".\\国民消费水平\\居民消费水平数据_已处理_20260415_081527.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          9,
+          19
+        ]
+      }
+    },
+    ".\\科技\\R&D研究与试验发展数据.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          35,
+          11
+        ]
+      }
+    },
+    ".\\科技\\R&D研究与试验发展数据_20260415_081527_TOPSIS分析.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          32,
+          6
+        ]
+      }
+    },
+    ".\\科技\\R&D研究与试验发展数据_已处理_20260415_081527.csv": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "shape": [
+          32,
+          21
+        ]
+      }
+    },
+    ".\\科技\\R&D研究与试验发展数据_已处理_20260415_081527.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          32,
+          21
+        ]
+      }
+    },
+    ".\\科技\\高等学校科技数据.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          38,
+          10
+        ]
+      }
+    },
+    ".\\科技\\高等学校科技数据_20260415_081527_TOPSIS分析.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          35,
+          6
+        ]
+      }
+    },
+    ".\\科技\\高等学校科技数据_已处理_20260415_081527.csv": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "shape": [
+          35,
+          19
+        ]
+      }
+    },
+    ".\\科技\\高等学校科技数据_已处理_20260415_081527.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          35,
+          19
+        ]
+      }
+    },
+    ".\\能源\\人均生活能源消费数据.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          10,
+          9
+        ]
+      }
+    },
+    ".\\能源\\人均生活能源消费数据_20260415_081528_TOPSIS分析.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          7,
+          6
+        ]
+      }
+    },
+    ".\\能源\\人均生活能源消费数据_已处理_20260415_081528.csv": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "shape": [
+          7,
+          17
+        ]
+      }
+    },
+    ".\\能源\\人均生活能源消费数据_已处理_20260415_081528.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          7,
+          17
+        ]
+      }
+    },
+    ".\\能源\\人均能源生产与消费数据.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          12,
+          10
+        ]
+      }
+    },
+    ".\\能源\\人均能源生产与消费数据_20260415_081528_TOPSIS分析.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          9,
+          6
+        ]
+      }
+    },
+    ".\\能源\\人均能源生产与消费数据_已处理_20260415_081528.csv": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "shape": [
+          9,
+          19
+        ]
+      }
+    },
+    ".\\能源\\人均能源生产与消费数据_已处理_20260415_081528.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          9,
+          19
+        ]
+      }
+    },
+    ".\\能源\\平均每天能源消费量数据.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          13,
+          9
+        ]
+      }
+    },
+    ".\\能源\\平均每天能源消费量数据_20260415_081528_TOPSIS分析.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          10,
+          6
+        ]
+      }
+    },
+    ".\\能源\\平均每天能源消费量数据_已处理_20260415_081528.csv": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "shape": [
+          10,
+          17
+        ]
+      }
+    },
+    ".\\能源\\平均每天能源消费量数据_已处理_20260415_081528.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          10,
+          17
+        ]
+      }
+    },
+    ".\\能源\\生活能源消费量数据.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          11,
+          9
+        ]
+      }
+    },
+    ".\\能源\\生活能源消费量数据_20260415_081528_TOPSIS分析.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          8,
+          6
+        ]
+      }
+    },
+    ".\\能源\\生活能源消费量数据_已处理_20260415_081528.csv": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "shape": [
+          8,
+          17
+        ]
+      }
+    },
+    ".\\能源\\生活能源消费量数据_已处理_20260415_081528.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          8,
+          17
+        ]
+      }
+    },
+    ".\\能源\\能源供需平衡数据.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          25,
+          11
+        ]
+      }
+    },
+    ".\\能源\\能源供需平衡数据_20260415_081528_TOPSIS分析.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          22,
+          6
+        ]
+      }
+    },
+    ".\\能源\\能源供需平衡数据_已处理_20260415_081528.csv": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "shape": [
+          22,
+          21
+        ]
+      }
+    },
+    ".\\能源\\能源供需平衡数据_已处理_20260415_081528.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          22,
+          21
+        ]
+      }
+    },
+    ".\\能源\\能源消费总量与结构数据.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          17,
+          11
+        ]
+      }
+    },
+    ".\\能源\\能源消费总量与结构数据_20260415_081528_TOPSIS分析.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          14,
+          6
+        ]
+      }
+    },
+    ".\\能源\\能源消费总量与结构数据_已处理_20260415_081528.csv": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "shape": [
+          14,
+          21
+        ]
+      }
+    },
+    ".\\能源\\能源消费总量与结构数据_已处理_20260415_081528.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          14,
+          21
+        ]
+      }
+    },
+    ".\\资源与环境\\供用水总量数据.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          15,
+          10
+        ]
+      }
+    },
+    ".\\资源与环境\\供用水总量数据_20260415_081528_TOPSIS分析.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          12,
+          6
+        ]
+      }
+    },
+    ".\\资源与环境\\供用水总量数据_已处理_20260415_081528.csv": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "shape": [
+          12,
+          19
+        ]
+      }
+    },
+    ".\\资源与环境\\供用水总量数据_已处理_20260415_081528.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          12,
+          19
+        ]
+      }
+    },
+    ".\\资源与环境\\大气环境污染物排放数据.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          6,
+          10
+        ]
+      }
+    },
+    ".\\资源与环境\\大气环境污染物排放数据_20260415_081528_TOPSIS分析.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          3,
+          6
+        ]
+      }
+    },
+    ".\\资源与环境\\大气环境污染物排放数据_已处理_20260415_081528.csv": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "shape": [
+          3,
+          19
+        ]
+      }
+    },
+    ".\\资源与环境\\大气环境污染物排放数据_已处理_20260415_081528.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          3,
+          19
+        ]
+      }
+    },
+    ".\\资源与环境\\工业污染治理投资数据.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          9,
+          10
+        ]
+      }
+    },
+    ".\\资源与环境\\工业污染治理投资数据_20260415_081528_TOPSIS分析.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          6,
+          6
+        ]
+      }
+    },
+    ".\\资源与环境\\工业污染治理投资数据_已处理_20260415_081528.csv": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "shape": [
+          6,
+          19
+        ]
+      }
+    },
+    ".\\资源与环境\\工业污染治理投资数据_已处理_20260415_081528.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          6,
+          19
+        ]
+      }
+    },
+    ".\\资源与环境\\森林资源数据.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          11,
+          6
+        ]
+      }
+    },
+    ".\\资源与环境\\森林资源数据_20260415_081528_TOPSIS分析.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          8,
+          6
+        ]
+      }
+    },
+    ".\\资源与环境\\森林资源数据_已处理_20260415_081528.csv": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "shape": [
+          8,
+          11
+        ]
+      }
+    },
+    ".\\资源与环境\\森林资源数据_已处理_20260415_081528.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          8,
+          11
+        ]
+      }
+    },
+    ".\\资源与环境\\水环境污染物排放数据.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          16,
+          10
+        ]
+      }
+    },
+    ".\\资源与环境\\水环境污染物排放数据_20260415_081528_TOPSIS分析.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          13,
+          6
+        ]
+      }
+    },
+    ".\\资源与环境\\水环境污染物排放数据_已处理_20260415_081528.csv": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "shape": [
+          13,
+          19
+        ]
+      }
+    },
+    ".\\资源与环境\\水环境污染物排放数据_已处理_20260415_081528.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          13,
+          19
+        ]
+      }
+    },
+    ".\\资源与环境\\水资源总量数据.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          8,
+          10
+        ]
+      }
+    },
+    ".\\资源与环境\\水资源总量数据_20260415_081528_TOPSIS分析.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          5,
+          6
+        ]
+      }
+    },
+    ".\\资源与环境\\水资源总量数据_已处理_20260415_081528.csv": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "shape": [
+          5,
+          19
+        ]
+      }
+    },
+    ".\\资源与环境\\水资源总量数据_已处理_20260415_081528.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          5,
+          19
+        ]
+      }
+    },
+    ".\\资源与环境\\环境污染治理投资数据.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          13,
+          10
+        ]
+      }
+    },
+    ".\\资源与环境\\环境污染治理投资数据_20260415_081528_TOPSIS分析.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          10,
+          6
+        ]
+      }
+    },
+    ".\\资源与环境\\环境污染治理投资数据_已处理_20260415_081528.csv": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "shape": [
+          10,
+          19
+        ]
+      }
+    },
+    ".\\资源与环境\\环境污染治理投资数据_已处理_20260415_081528.xlsx": {
+      "is_valid": true,
+      "details": {
+        "is_valid": true,
+        "issues": [],
+        "sheets": [
+          "Sheet1"
+        ],
+        "shape": [
+          10,
+          19
+        ]
+      }
+    }
+  },
+  "coupling_analysis": {
+    "file_dependencies": {
+      ".\\.\\comprehensive_file_check.py": [
+        "os",
+        "json",
+        "pandas",
+        "numpy",
+        "ast",
+        "re",
+        "datetime",
+        "typing"
+      ],
+      ".\\.\\code\\analyze_files.py": [
+        "pandas",
+        "os"
+      ],
+      ".\\.\\code\\check_and_topsis.py": [
+        "os",
+        "pandas",
+        "numpy",
+        "json",
+        "datetime"
+      ],
+      ".\\.\\code\\data_processor.py": [
+        "os",
+        "pandas",
+        "numpy",
+        "matplotlib.pyplot",
+        "seaborn",
+        "datetime",
+        "json",
+        "warnings",
+        "traceback"
+      ],
+      ".\\.\\code\\data_processor_fast.py": [
+        "os",
+        "pandas",
+        "numpy",
+        "datetime",
+        "json",
+        "warnings",
+        "traceback"
+      ],
+      ".\\.\\code\\debug_entropy.py": [
+        "os",
+        "pandas",
+        "numpy"
+      ],
+      ".\\.\\code\\entropy_weight_fix.py": [
+        "os",
+        "pandas",
+        "numpy",
+        "datetime",
+        "json",
+        "traceback"
+      ],
+      ".\\.\\code\\final_processor.py": [
+        "os",
+        "pandas",
+        "numpy",
+        "datetime",
+        "json",
+        "warnings",
+        "traceback"
+      ],
+      ".\\.\\code\\organize_project.py": [
+        "os",
+        "shutil",
+        "pandas",
+        "numpy",
+        "datetime",
+        "json"
+      ],
+      ".\\.\\code\\reorganize_project.py": [
+        "os",
+        "shutil",
+        "pandas",
+        "numpy",
+        "datetime",
+        "json",
+        "traceback"
+      ],
+      ".\\.\\code\\run_processor.py": [
+        "sys",
+        "data_processor",
+        "data_processor_fast"
+      ],
+      ".\\code\\analyze_files.py": [
+        "pandas",
+        "os"
+      ],
+      ".\\code\\check_and_topsis.py": [
+        "os",
+        "pandas",
+        "numpy",
+        "json",
+        "datetime"
+      ],
+      ".\\code\\data_processor.py": [
+        "os",
+        "pandas",
+        "numpy",
+        "matplotlib.pyplot",
+        "seaborn",
+        "datetime",
+        "json",
+        "warnings",
+        "traceback"
+      ],
+      ".\\code\\data_processor_fast.py": [
+        "os",
+        "pandas",
+        "numpy",
+        "datetime",
+        "json",
+        "warnings",
+        "traceback"
+      ],
+      ".\\code\\debug_entropy.py": [
+        "os",
+        "pandas",
+        "numpy"
+      ],
+      ".\\code\\entropy_weight_fix.py": [
+        "os",
+        "pandas",
+        "numpy",
+        "datetime",
+        "json",
+        "traceback"
+      ],
+      ".\\code\\final_processor.py": [
+        "os",
+        "pandas",
+        "numpy",
+        "datetime",
+        "json",
+        "warnings",
+        "traceback"
+      ],
+      ".\\code\\organize_project.py": [
+        "os",
+        "shutil",
+        "pandas",
+        "numpy",
+        "datetime",
+        "json"
+      ],
+      ".\\code\\reorganize_project.py": [
+        "os",
+        "shutil",
+        "pandas",
+        "numpy",
+        "datetime",
+        "json",
+        "traceback"
+      ],
+      ".\\code\\run_processor.py": [
+        "sys",
+        "data_processor",
+        "data_processor_fast"
+      ]
+    },
+    "coupling_score": 0.13333333333333333,
+    "recommendation": "耦合度低，模块独立性好"
+  }
+}

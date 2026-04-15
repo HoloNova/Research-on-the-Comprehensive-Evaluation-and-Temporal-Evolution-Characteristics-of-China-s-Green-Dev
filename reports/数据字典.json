@@ -1,0 +1,5618 @@
+{
+  "国民消费水平_年度数据 (1)_已处理_20260415_080332.xlsx": {
+    "file_name": "国民消费水平_年度数据 (1)_已处理_20260415_080332.xlsx",
+    "created_at": "2026-04-15 08:06:29",
+    "columns": {
+      "指标": {
+        "data_type": "str",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 8
+      },
+      "38243": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 104.5,
+        "max": 19638.425,
+        "mean": 5781.43125
+      },
+      "36302": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 108.6,
+        "max": 18586.2875,
+        "mean": 5478.946875
+      },
+      "33012": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 100.2,
+        "max": 16902.112499999996,
+        "mean": 4988.015624999998
+      },
+      "31893": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 110.7,
+        "max": 16062.45,
+        "mean": 4766.0875
+      },
+      "27992": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 95.0,
+        "max": 14021.175000000001,
+        "mean": 4172.20625
+      },
+      "28118": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 103.9,
+        "max": 13655.5,
+        "mean": 4093.9375
+      },
+      "25986": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 104.7,
+        "max": 12505.962500000001,
+        "mean": 3771.753125
+      },
+      "23642": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 103.5,
+        "max": 11088.175,
+        "mean": 3370.7062499999997
+      },
+      "21480": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 106.3,
+        "max": 9911.087500000001,
+        "mean": 3040.9968750000003
+      },
+      "0.8347870815229882": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 0.0,
+        "max": 0.4275644884156151,
+        "mean": 0.12425839690061616
+      },
+      "0.8284441636681591": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 0.0,
+        "max": 0.4229426461028557,
+        "mean": 0.12292386251270361
+      },
+      "0.8234990917234235": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 0.0,
+        "max": 0.4204072607079052,
+        "mean": 0.12229995708831048
+      },
+      "0.8129650614028131": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 0.0,
+        "max": 0.4080326287975484,
+        "mean": 0.11908097855697632
+      },
+      "0.8032999308914996": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 0.0,
+        "max": 0.4010071124164939,
+        "mean": 0.11740400397373878
+      },
+      "0.7838940484818298": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 0.0,
+        "max": 0.37920256540122166,
+        "mean": 0.11164972815365543
+      },
+      "0.7703845478385368": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 0.0,
+        "max": 0.3691368286635332,
+        "mean": 0.10915375439421583
+      },
+      "0.7821970703955763": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 0.0,
+        "max": 0.36502668412377703,
+        "mean": 0.10857102861814119
+      },
+      "0.8142361904761903": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 0.0,
+        "max": 0.3735157142857142,
+        "mean": 0.11179797619047616
+      },
+      "38243_标准化": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.29061907681123994
+      },
+      "36302_标准化": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.2906395551391374
+      },
+      "33012_标准化": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.29090828945811975
+      },
+      "31893_标准化": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.2918418041907628
+      },
+      "27992_标准化": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.29277287194796847
+      },
+      "28118_标准化": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.29443294518728413
+      },
+      "25986_标准化": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.2956999841749983
+      },
+      "23642_标准化": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.29743312842664893
+      },
+      "21480_标准化": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.299312644460678
+      },
+      "0.8347870815229882_标准化": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.29061907681123994
+      },
+      "0.8284441636681591_标准化": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.2906395551391374
+      },
+      "0.8234990917234235_标准化": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.29090828945811975
+      },
+      "0.8129650614028131_标准化": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.2918418041907628
+      },
+      "0.8032999308914996_标准化": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.29277287194796847
+      },
+      "0.7838940484818298_标准化": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.2944329451872842
+      },
+      "0.7703845478385368_标准化": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.2956999841749983
+      },
+      "0.7821970703955763_标准化": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.29743312842664893
+      },
+      "0.8142361904761903_标准化": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.29931264446067807
+      }
+    }
+  },
+  "国民消费水平_年度数据 (2)_已处理_20260415_080332.xlsx": {
+    "file_name": "国民消费水平_年度数据 (2)_已处理_20260415_080332.xlsx",
+    "created_at": "2026-04-15 08:06:30",
+    "columns": {
+      "指标": {
+        "data_type": "str",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5
+      },
+      "105.1": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 103.9125,
+        "max": 105.4,
+        "mean": 104.7825
+      },
+      "105": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 3,
+        "min": 104.8875,
+        "max": 105.1,
+        "mean": 105.0175
+      },
+      "105.5": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 104.1,
+        "max": 106.3,
+        "mean": 105.14000000000001
+      },
+      "103": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 102.49999999999999,
+        "max": 103.9625,
+        "mean": 103.2325
+      },
+      "108.7": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 107.675,
+        "max": 109.0,
+        "mean": 108.39499999999998
+      },
+      "101.8": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 102.1,
+        "max": 102.7875,
+        "mean": 102.3375
+      },
+      "106.2": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 103.1,
+        "max": 107.6,
+        "mean": 105.42
+      },
+      "106.4": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 104.7625,
+        "max": 107.8625,
+        "mean": 106.30499999999999
+      },
+      "107.3": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 104.4,
+        "max": 108.1,
+        "mean": 106.30000000000003
+      },
+      "106.8": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 104.925,
+        "max": 107.9,
+        "mean": 106.36500000000001
+      },
+      "0.7983193277310844": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.5848739495798284
+      },
+      "0.5294117647058587": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 3,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.6117647058823434
+      },
+      "0.6363636363636381": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.472727272727275
+      },
+      "0.3583333333333296": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 0.024999999999986644,
+        "max": 1.0,
+        "mean": 0.5133333333333268
+      },
+      "0.7735849056603775": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.5433962264150918
+      },
+      "0": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 0.303797468354424,
+        "max": 1.0,
+        "mean": 0.5443037974683511
+      },
+      "0.6888888888888908": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.515555555555556
+      },
+      "0.5282258064516145": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.49758064516128975
+      },
+      "0.7981072555205043": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.06624605678233192,
+        "max": 1.0,
+        "mean": 0.5457413249211351
+      },
+      "0.6302521008403343": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.48403361344537793
+      },
+      "105.1_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.5848739495798305
+      },
+      "105_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 3,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.6117647058823561
+      },
+      "105.5_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.472727272727275
+      },
+      "103_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.5008547008547011
+      },
+      "108.7_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.5433962264150944
+      },
+      "101.8_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.34545454545454957
+      },
+      "106.2_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.515555555555556
+      },
+      "106.4_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.49758064516128975
+      },
+      "107.3_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.5135135135135143
+      },
+      "106.8_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.48403361344537793
+      },
+      "0.7983193277310844_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.5848739495798284
+      },
+      "0.5294117647058587_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 3,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.6117647058823434
+      },
+      "0.6363636363636381_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.472727272727275
+      },
+      "0.3583333333333296_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.5008547008547011
+      },
+      "0.7735849056603775_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.5433962264150918
+      },
+      "0_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.34545454545454657
+      },
+      "0.6888888888888908_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.515555555555556
+      },
+      "0.5282258064516145_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.49758064516128975
+      },
+      "0.7981072555205043_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.5135135135135143
+      },
+      "0.6302521008403343_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.48403361344537793
+      }
+    }
+  },
+  "国民消费水平_年度数据 (3)_已处理_20260415_080332.xlsx": {
+    "file_name": "国民消费水平_年度数据 (3)_已处理_20260415_080332.xlsx",
+    "created_at": "2026-04-15 08:06:30",
+    "columns": {
+      "指标": {
+        "data_type": "str",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5
+      },
+      "5254.4": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 739.3,
+        "max": 7867.3,
+        "mean": 4999.62
+      },
+      "4971.7": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 711.3,
+        "max": 7465.2,
+        "mean": 4763.9
+      },
+      "4734.6": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 686.1,
+        "max": 7104.8,
+        "mean": 4537.0
+      },
+      "4486.7": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 659.4,
+        "max": 6685.1,
+        "mean": 4307.12
+      },
+      "4357.2": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 632.8,
+        "max": 6456.5,
+        "mean": 4180.18
+      },
+      "4009.1": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 591.0,
+        "max": 5964.8,
+        "mean": 3851.44
+      },
+      "3937.5": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 573.1,
+        "max": 5840.2,
+        "mean": 3765.7
+      },
+      "3706.5": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 555.9,
+        "max": 5585.9,
+        "mean": 3555.7
+      },
+      "3482.4": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 537.2,
+        "max": 5280.1,
+        "mean": 3334.5200000000004
+      },
+      "3246.2": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 516.8,
+        "max": 4987.4,
+        "mean": 3124.1
+      },
+      "0.6334315375982041": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.5976879910213244
+      },
+      "0.6308059047365225": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.6000384962762256
+      },
+      "0.6307351956003553": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.599950145668126
+      },
+      "0.6351627196840199": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.6053603730686891
+      },
+      "0.639524700791593": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.6091282174562563
+      },
+      "0.6360675871822546": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.6067289441363654
+      },
+      "0.6387575705796359": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.6061400011391468
+      },
+      "0.6263618290258449": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.5963817097415507
+      },
+      "0.6209702924371164": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.5897910561049147
+      },
+      "0.6105220775734801": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.5832103073412965
+      },
+      "5254.4_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.5976879910213244
+      },
+      "4971.7_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.6000384962762256
+      },
+      "4734.6_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.599950145668126
+      },
+      "4486.7_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.6053603730686891
+      },
+      "4357.2_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.6091282174562563
+      },
+      "4009.1_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.6067289441363654
+      },
+      "3937.5_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.6061400011391468
+      },
+      "3706.5_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.5963817097415507
+      },
+      "3482.4_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.5897910561049147
+      },
+      "3246.2_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.5832103073412965
+      },
+      "0.6334315375982041_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.5976879910213244
+      },
+      "0.6308059047365225_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.6000384962762256
+      },
+      "0.6307351956003553_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.599950145668126
+      },
+      "0.6351627196840199_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.6053603730686891
+      },
+      "0.639524700791593_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.6091282174562563
+      },
+      "0.6360675871822546_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.6067289441363654
+      },
+      "0.6387575705796359_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.6061400011391468
+      },
+      "0.6263618290258449_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.5963817097415507
+      },
+      "0.6209702924371164_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.5897910561049147
+      },
+      "0.6105220775734801_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.5832103073412965
+      }
+    }
+  },
+  "国民消费水平_年度数据 (4)_已处理_20260415_080332.xlsx": {
+    "file_name": "国民消费水平_年度数据 (4)_已处理_20260415_080332.xlsx",
+    "created_at": "2026-04-15 08:06:30",
+    "columns": {
+      "指标": {
+        "data_type": "str",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4
+      },
+      "100": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 4.6,
+        "max": 61.6,
+        "mean": 36.9625
+      },
+      "89.05000000000001": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 5.5,
+        "max": 57.7,
+        "mean": 36.8125
+      },
+      "92.9": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 6.2,
+        "max": 58.4,
+        "mean": 36.725
+      },
+      "85.1": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 9.8,
+        "max": 55.1,
+        "mean": 36.275
+      },
+      "97.44999999999999": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 4.0,
+        "max": 60.4,
+        "mean": 37.037499999999994
+      },
+      "1": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 0.0,
+        "max": 0.6035313001605137,
+        "mean": 0.35353130016051365
+      },
+      "100_标准化": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.5677631578947369
+      },
+      "89.05000000000001_标准化": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.5998563218390804
+      },
+      "92.9_标准化": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.5847701149425287
+      },
+      "85.1_标准化": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.5844370860927153
+      },
+      "97.44999999999999_标准化": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.5857712765957447
+      },
+      "1_标准化": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.5857712765957447
+      }
+    }
+  },
+  "国民消费水平_年度数据 (5)_已处理_20260415_080332.xlsx": {
+    "file_name": "国民消费水平_年度数据 (5)_已处理_20260415_080332.xlsx",
+    "created_at": "2026-04-15 08:06:30",
+    "columns": {
+      "指标": {
+        "data_type": "str",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4
+      },
+      "5": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 0.3,
+        "max": 3.0,
+        "mean": 1.8
+      },
+      "4.55": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 0.3,
+        "max": 2.9,
+        "mean": 1.8375
+      },
+      "5.4": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 0.3,
+        "max": 3.5,
+        "mean": 1.9875
+      },
+      "3.1": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 0.3,
+        "max": 2.0,
+        "mean": 1.125
+      },
+      "8": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 0.5,
+        "max": 5.0,
+        "mean": 3.125
+      },
+      "2.05": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 0.2,
+        "max": 1.3,
+        "mean": 0.8374999999999999
+      },
+      "6.1": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 0.2,
+        "max": 4.1,
+        "mean": 2.2625
+      },
+      "6.8": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 0.3,
+        "max": 4.2,
+        "mean": 2.5125
+      },
+      "6.9": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 0.3,
+        "max": 4.2,
+        "mean": 2.5125
+      },
+      "6.649999999999999": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 0.3,
+        "max": 4.1,
+        "mean": 2.5124999999999997
+      },
+      "1": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 0.0,
+        "max": 0.5984251968503937,
+        "mean": 0.34842519685039375
+      },
+      "5_标准化": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.5555555555555555
+      },
+      "4.55_标准化": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.5913461538461539
+      },
+      "5.4_标准化": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.52734375
+      },
+      "3.1_标准化": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.4852941176470588
+      },
+      "8_标准化": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.5833333333333334
+      },
+      "2.05_标准化": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.5795454545454546
+      },
+      "6.1_标准化": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.5288461538461539
+      },
+      "6.8_标准化": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.5673076923076923
+      },
+      "6.9_标准化": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.5673076923076923
+      },
+      "6.649999999999999_标准化": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.5822368421052633
+      },
+      "1_标准化": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.5822368421052632
+      }
+    }
+  },
+  "国民消费水平_年度数据_已处理_20260415_080332.xlsx": {
+    "file_name": "国民消费水平_年度数据_已处理_20260415_080332.xlsx",
+    "created_at": "2026-04-15 08:06:30",
+    "columns": {
+      "指标": {
+        "data_type": "str",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5
+      },
+      "1393700": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 93346.8,
+        "max": 1401879.2,
+        "mean": 580684.6599999999
+      },
+      "1338797.3": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 91635.8,
+        "max": 1348066.2,
+        "mean": 558361.86
+      },
+      "1284773.9": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 89169.1,
+        "max": 1294271.7,
+        "mean": 536057.88
+      },
+      "1223706.8": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 87385.0,
+        "max": 1234029.4,
+        "mean": 511088.74000000005
+      },
+      "1165816.8": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 83111.0,
+        "max": 1173823.0,
+        "mean": 486151.42000000004
+      },
+      "1026751.9": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 73338.0,
+        "max": 1034867.6,
+        "mean": 428614.64
+      },
+      "1003108.4": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 70473.6,
+        "max": 1005872.4,
+        "mean": 416639.57999999996
+      },
+      "931972.5": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 64745.2,
+        "max": 936010.1,
+        "mean": 387749.26
+      },
+      "846292.7": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 60691.0,
+        "max": 847382.9,
+        "mean": 351091.36
+      },
+      "757492": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 54849.0,
+        "max": 761193.0,
+        "mean": 315447.0
+      },
+      "0.9937493332224713": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.37243086988140306
+      },
+      "0.9926228305204968": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3714698880256321
+      },
+      "0.9921186793556": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.370830483645127
+      },
+      "0.9909975577432726": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3695162510713871
+      },
+      "0.9926596571780636": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3695204783664249
+      },
+      "0.9915595942132203": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3694911108300774
+      },
+      "0.9970451105988163": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.37007314954862036
+      },
+      "0.9953658181340715": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.37073002711345315
+      },
+      "0.9986141969937659": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3691411593280673
+      },
+      "0.9947603434020817": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.36893921375420474
+      },
+      "1393700_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.37243086988140306
+      },
+      "1338797.3_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3714698880256321
+      },
+      "1284773.9_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.370830483645127
+      },
+      "1223706.8_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3695162510713871
+      },
+      "1165816.8_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3695204783664249
+      },
+      "1026751.9_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3694911108300774
+      },
+      "1003108.4_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.37007314954862036
+      },
+      "931972.5_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.37073002711345315
+      },
+      "846292.7_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3691411593280673
+      },
+      "757492_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.36893921375420474
+      },
+      "0.9937493332224713_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.37243086988140306
+      },
+      "0.9926228305204968_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3714698880256321
+      },
+      "0.9921186793556_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.370830483645127
+      },
+      "0.9909975577432726_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3695162510713871
+      },
+      "0.9926596571780636_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3695204783664249
+      },
+      "0.9915595942132203_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3694911108300774
+      },
+      "0.9970451105988163_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.37007314954862036
+      },
+      "0.9953658181340715_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.37073002711345315
+      },
+      "0.9986141969937659_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3691411593280673
+      },
+      "0.9947603434020817_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.36893921375420474
+      }
+    }
+  },
+  "年度数据 (1).xlsx": {
+    "file_name": "年度数据 (1).xlsx",
+    "created_at": "2026-04-15 08:06:30",
+    "columns": {
+      "指标": {
+        "data_type": "str",
+        "non_null_count": 10,
+        "null_count": 0,
+        "unique_count": 10
+      }
+    }
+  },
+  "年度数据 (2).xlsx": {
+    "file_name": "年度数据 (2).xlsx",
+    "created_at": "2026-04-15 08:06:30",
+    "columns": {
+      "指标": {
+        "data_type": "str",
+        "non_null_count": 7,
+        "null_count": 0,
+        "unique_count": 7
+      }
+    }
+  },
+  "年度数据 (3).xlsx": {
+    "file_name": "年度数据 (3).xlsx",
+    "created_at": "2026-04-15 08:06:30",
+    "columns": {
+      "指标": {
+        "data_type": "str",
+        "non_null_count": 7,
+        "null_count": 0,
+        "unique_count": 7
+      }
+    }
+  },
+  "年度数据 (4).xlsx": {
+    "file_name": "年度数据 (4).xlsx",
+    "created_at": "2026-04-15 08:06:30",
+    "columns": {
+      "指标": {
+        "data_type": "str",
+        "non_null_count": 6,
+        "null_count": 0,
+        "unique_count": 6
+      }
+    }
+  },
+  "年度数据 (5).xlsx": {
+    "file_name": "年度数据 (5).xlsx",
+    "created_at": "2026-04-15 08:06:30",
+    "columns": {
+      "指标": {
+        "data_type": "str",
+        "non_null_count": 6,
+        "null_count": 0,
+        "unique_count": 6
+      }
+    }
+  },
+  "年度数据.xlsx": {
+    "file_name": "年度数据.xlsx",
+    "created_at": "2026-04-15 08:06:30",
+    "columns": {
+      "指标": {
+        "data_type": "str",
+        "non_null_count": 7,
+        "null_count": 0,
+        "unique_count": 7
+      }
+    }
+  },
+  "年度数据 (19).xlsx": {
+    "file_name": "年度数据 (19).xlsx",
+    "created_at": "2026-04-15 08:06:30",
+    "columns": {
+      "指标": {
+        "data_type": "str",
+        "non_null_count": 33,
+        "null_count": 0,
+        "unique_count": 33
+      }
+    }
+  },
+  "年度数据 (20).xlsx": {
+    "file_name": "年度数据 (20).xlsx",
+    "created_at": "2026-04-15 08:06:30",
+    "columns": {
+      "指标": {
+        "data_type": "str",
+        "non_null_count": 36,
+        "null_count": 0,
+        "unique_count": 36
+      }
+    }
+  },
+  "科技_年度数据 (19)_已处理_20260415_080332.xlsx": {
+    "file_name": "科技_年度数据 (19)_已处理_20260415_080332.xlsx",
+    "created_at": "2026-04-15 08:06:30",
+    "columns": {
+      "指标": {
+        "data_type": "str",
+        "non_null_count": 31,
+        "null_count": 0,
+        "unique_count": 31
+      },
+      "57498": {
+        "data_type": "float64",
+        "non_null_count": 31,
+        "null_count": 0,
+        "unique_count": 1,
+        "min": 57498.0,
+        "max": 57498.0,
+        "mean": 57498.0
+      },
+      "756.9": {
+        "data_type": "float64",
+        "non_null_count": 31,
+        "null_count": 0,
+        "unique_count": 16,
+        "min": 59.7,
+        "max": 60729.0,
+        "mean": 20954.290322580644
+      },
+      "724.1": {
+        "data_type": "float64",
+        "non_null_count": 31,
+        "null_count": 0,
+        "unique_count": 18,
+        "min": 57.5,
+        "max": 67325.275,
+        "mean": 21106.175322580642
+      },
+      "635.4": {
+        "data_type": "float64",
+        "non_null_count": 31,
+        "null_count": 0,
+        "unique_count": 16,
+        "min": 50.9,
+        "max": 56025.16250000001,
+        "mean": 22227.24943548387
+      },
+      "571.6": {
+        "data_type": "float64",
+        "non_null_count": 31,
+        "null_count": 0,
+        "unique_count": 15,
+        "min": 47.2,
+        "max": 49217.86875000001,
+        "mean": 21018.781370967747
+      },
+      "523.45": {
+        "data_type": "float64",
+        "non_null_count": 31,
+        "null_count": 0,
+        "unique_count": 17,
+        "min": 42.68,
+        "max": 49410.32375,
+        "mean": 16038.289112903225
+      },
+      "480.08": {
+        "data_type": "float64",
+        "non_null_count": 31,
+        "null_count": 0,
+        "unique_count": 17,
+        "min": 39.2,
+        "max": 44858.4,
+        "mean": 14558.706774193553
+      },
+      "438.14": {
+        "data_type": "float64",
+        "non_null_count": 31,
+        "null_count": 0,
+        "unique_count": 17,
+        "min": 30.5,
+        "max": 37990.505,
+        "mean": 12919.346451612897
+      },
+      "403.36": {
+        "data_type": "float64",
+        "non_null_count": 31,
+        "null_count": 0,
+        "unique_count": 17,
+        "min": 29.01,
+        "max": 31305.467500000002,
+        "mean": 10946.149516129035
+      },
+      "387.81": {
+        "data_type": "float64",
+        "non_null_count": 31,
+        "null_count": 0,
+        "unique_count": 17,
+        "min": 27.47,
+        "max": 27895.15,
+        "mean": 9769.386129032255
+      },
+      "0": {
+        "data_type": "float64",
+        "non_null_count": 31,
+        "null_count": 0,
+        "unique_count": 1,
+        "min": 0.0,
+        "max": 0.0,
+        "mean": 0.0
+      },
+      "0.01128859050079357": {
+        "data_type": "float64",
+        "non_null_count": 31,
+        "null_count": 0,
+        "unique_count": 16,
+        "min": 0.0,
+        "max": 0.9823162416376876,
+        "mean": 0.3383110640181543
+      },
+      "0.009909648416347948": {
+        "data_type": "float64",
+        "non_null_count": 31,
+        "null_count": 0,
+        "unique_count": 18,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3129087489898493
+      },
+      "0.01044229926209389": {
+        "data_type": "float64",
+        "non_null_count": 31,
+        "null_count": 0,
+        "unique_count": 16,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.39618832736713344
+      },
+      "0.01066489460751944": {
+        "data_type": "float64",
+        "non_null_count": 31,
+        "null_count": 0,
+        "unique_count": 15,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.42650592119448716
+      },
+      "0.009738564846939857": {
+        "data_type": "float64",
+        "non_null_count": 31,
+        "null_count": 0,
+        "unique_count": 17,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.32400997693764205
+      },
+      "0.009836855633300013": {
+        "data_type": "float64",
+        "non_null_count": 31,
+        "null_count": 0,
+        "unique_count": 17,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3239572945120294
+      },
+      "0.0104790255128372": {
+        "data_type": "float64",
+        "non_null_count": 31,
+        "null_count": 0,
+        "unique_count": 17,
+        "min": 0.0,
+        "max": 0.9758214622275236,
+        "mean": 0.3313280119651968
+      },
+      "0.01169479155736643": {
+        "data_type": "float64",
+        "non_null_count": 31,
+        "null_count": 0,
+        "unique_count": 17,
+        "min": 0.0,
+        "max": 0.9770846830915721,
+        "mean": 0.34105428354165174
+      },
+      "0.01264977484899757": {
+        "data_type": "float64",
+        "non_null_count": 31,
+        "null_count": 0,
+        "unique_count": 17,
+        "min": 0.0,
+        "max": 0.9782979340731327,
+        "mean": 0.34199102411632354
+      },
+      "57498_标准化": {
+        "data_type": "int64",
+        "non_null_count": 31,
+        "null_count": 0,
+        "unique_count": 1,
+        "min": 0.0,
+        "max": 0.0,
+        "mean": 0.0
+      },
+      "756.9_标准化": {
+        "data_type": "float64",
+        "non_null_count": 31,
+        "null_count": 0,
+        "unique_count": 16,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3444013747081414
+      },
+      "724.1_标准化": {
+        "data_type": "float64",
+        "non_null_count": 31,
+        "null_count": 0,
+        "unique_count": 18,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3129087489898493
+      },
+      "635.4_标准化": {
+        "data_type": "float64",
+        "non_null_count": 31,
+        "null_count": 0,
+        "unique_count": 16,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.39618832736713344
+      },
+      "571.6_标准化": {
+        "data_type": "float64",
+        "non_null_count": 31,
+        "null_count": 0,
+        "unique_count": 15,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.4265059211944871
+      },
+      "523.45_标准化": {
+        "data_type": "float64",
+        "non_null_count": 31,
+        "null_count": 0,
+        "unique_count": 17,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.32400997693764205
+      },
+      "480.08_标准化": {
+        "data_type": "float64",
+        "non_null_count": 31,
+        "null_count": 0,
+        "unique_count": 17,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3239572945120294
+      },
+      "438.14_标准化": {
+        "data_type": "float64",
+        "non_null_count": 31,
+        "null_count": 0,
+        "unique_count": 17,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.33953753303280415
+      },
+      "403.36_标准化": {
+        "data_type": "float64",
+        "non_null_count": 31,
+        "null_count": 0,
+        "unique_count": 17,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3490529423330322
+      },
+      "387.81_标准化": {
+        "data_type": "float64",
+        "non_null_count": 31,
+        "null_count": 0,
+        "unique_count": 17,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3495775797996913
+      },
+      "0_标准化": {
+        "data_type": "int64",
+        "non_null_count": 31,
+        "null_count": 0,
+        "unique_count": 1,
+        "min": 0.0,
+        "max": 0.0,
+        "mean": 0.0
+      },
+      "0.01128859050079357_标准化": {
+        "data_type": "float64",
+        "non_null_count": 31,
+        "null_count": 0,
+        "unique_count": 16,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3444013747081414
+      },
+      "0.009909648416347948_标准化": {
+        "data_type": "float64",
+        "non_null_count": 31,
+        "null_count": 0,
+        "unique_count": 18,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3129087489898493
+      },
+      "0.01044229926209389_标准化": {
+        "data_type": "float64",
+        "non_null_count": 31,
+        "null_count": 0,
+        "unique_count": 16,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.39618832736713344
+      },
+      "0.01066489460751944_标准化": {
+        "data_type": "float64",
+        "non_null_count": 31,
+        "null_count": 0,
+        "unique_count": 15,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.42650592119448716
+      },
+      "0.009738564846939857_标准化": {
+        "data_type": "float64",
+        "non_null_count": 31,
+        "null_count": 0,
+        "unique_count": 17,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.32400997693764205
+      },
+      "0.009836855633300013_标准化": {
+        "data_type": "float64",
+        "non_null_count": 31,
+        "null_count": 0,
+        "unique_count": 17,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3239572945120294
+      },
+      "0.0104790255128372_标准化": {
+        "data_type": "float64",
+        "non_null_count": 31,
+        "null_count": 0,
+        "unique_count": 17,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.33953753303280415
+      },
+      "0.01169479155736643_标准化": {
+        "data_type": "float64",
+        "non_null_count": 31,
+        "null_count": 0,
+        "unique_count": 17,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.34905294233303213
+      },
+      "0.01264977484899757_标准化": {
+        "data_type": "float64",
+        "non_null_count": 31,
+        "null_count": 0,
+        "unique_count": 17,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3495775797996913
+      }
+    }
+  },
+  "科技_年度数据 (20)_已处理_20260415_080332.xlsx": {
+    "file_name": "科技_年度数据 (20)_已处理_20260415_080332.xlsx",
+    "created_at": "2026-04-15 08:06:30",
+    "columns": {
+      "指标": {
+        "data_type": "str",
+        "non_null_count": 34,
+        "null_count": 0,
+        "unique_count": 34
+      },
+      "2870": {
+        "data_type": "float64",
+        "non_null_count": 34,
+        "null_count": 0,
+        "unique_count": 16,
+        "min": 7.7,
+        "max": 37846.05,
+        "mean": 11025.132352941177
+      },
+      "2822": {
+        "data_type": "float64",
+        "non_null_count": 34,
+        "null_count": 0,
+        "unique_count": 17,
+        "min": 6.5,
+        "max": 35303.1,
+        "mean": 10306.29705882353
+      },
+      "2760": {
+        "data_type": "float64",
+        "non_null_count": 34,
+        "null_count": 0,
+        "unique_count": 16,
+        "min": 4.9,
+        "max": 32750.675,
+        "mean": 9548.058823529413
+      },
+      "2756": {
+        "data_type": "float64",
+        "non_null_count": 34,
+        "null_count": 0,
+        "unique_count": 16,
+        "min": 4.6,
+        "max": 30549.8,
+        "mean": 8882.235294117647
+      },
+      "2738": {
+        "data_type": "float64",
+        "non_null_count": 34,
+        "null_count": 0,
+        "unique_count": 17,
+        "min": 4.06,
+        "max": 27140.735,
+        "mean": 7876.491176470587
+      },
+      "2688": {
+        "data_type": "float64",
+        "non_null_count": 34,
+        "null_count": 0,
+        "unique_count": 17,
+        "min": 4.05,
+        "max": 25132.595,
+        "mean": 7312.812352941176
+      },
+      "2663": {
+        "data_type": "float64",
+        "non_null_count": 34,
+        "null_count": 0,
+        "unique_count": 17,
+        "min": 2.27,
+        "max": 22702.73,
+        "mean": 6544.803235294117
+      },
+      "2631": {
+        "data_type": "float64",
+        "non_null_count": 34,
+        "null_count": 0,
+        "unique_count": 17,
+        "min": 1.88,
+        "max": 21136.865,
+        "mean": 6058.598235294116
+      },
+      "2596": {
+        "data_type": "float64",
+        "non_null_count": 34,
+        "null_count": 0,
+        "unique_count": 17,
+        "min": 2.05,
+        "max": 18851.855,
+        "mean": 5380.36294117647
+      },
+      "0.0756454760844487": {
+        "data_type": "float64",
+        "non_null_count": 34,
+        "null_count": 0,
+        "unique_count": 16,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.291171056690928
+      },
+      "0.07976688972875574": {
+        "data_type": "float64",
+        "non_null_count": 34,
+        "null_count": 0,
+        "unique_count": 17,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.2918070595701436
+      },
+      "0.08413604503176364": {
+        "data_type": "float64",
+        "non_null_count": 34,
+        "null_count": 0,
+        "unique_count": 16,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.2914317594721582
+      },
+      "0.09007634587431085": {
+        "data_type": "float64",
+        "non_null_count": 34,
+        "null_count": 0,
+        "unique_count": 16,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.290639291741997
+      },
+      "0.1007470517298085": {
+        "data_type": "float64",
+        "non_null_count": 34,
+        "null_count": 0,
+        "unique_count": 17,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.29010301285881884
+      },
+      "0.1068088104583851": {
+        "data_type": "float64",
+        "non_null_count": 34,
+        "null_count": 0,
+        "unique_count": 17,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.2908549760020397
+      },
+      "0.1172104001416711": {
+        "data_type": "float64",
+        "non_null_count": 34,
+        "null_count": 0,
+        "unique_count": 17,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.28821148273180885
+      },
+      "0.1243965869859856": {
+        "data_type": "float64",
+        "non_null_count": 34,
+        "null_count": 0,
+        "unique_count": 17,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.2865731030939514
+      },
+      "0.1376115031428707": {
+        "data_type": "float64",
+        "non_null_count": 34,
+        "null_count": 0,
+        "unique_count": 17,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.285324593075444
+      },
+      "2870_标准化": {
+        "data_type": "float64",
+        "non_null_count": 34,
+        "null_count": 0,
+        "unique_count": 16,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.291171056690928
+      },
+      "2822_标准化": {
+        "data_type": "float64",
+        "non_null_count": 34,
+        "null_count": 0,
+        "unique_count": 17,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.2918070595701436
+      },
+      "2760_标准化": {
+        "data_type": "float64",
+        "non_null_count": 34,
+        "null_count": 0,
+        "unique_count": 16,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.29143175947215827
+      },
+      "2756_标准化": {
+        "data_type": "float64",
+        "non_null_count": 34,
+        "null_count": 0,
+        "unique_count": 16,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.290639291741997
+      },
+      "2738_标准化": {
+        "data_type": "float64",
+        "non_null_count": 34,
+        "null_count": 0,
+        "unique_count": 17,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.29010301285881884
+      },
+      "2688_标准化": {
+        "data_type": "float64",
+        "non_null_count": 34,
+        "null_count": 0,
+        "unique_count": 17,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.2908549760020397
+      },
+      "2663_标准化": {
+        "data_type": "float64",
+        "non_null_count": 34,
+        "null_count": 0,
+        "unique_count": 17,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.28821148273180885
+      },
+      "2631_标准化": {
+        "data_type": "float64",
+        "non_null_count": 34,
+        "null_count": 0,
+        "unique_count": 17,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.2865731030939514
+      },
+      "2596_标准化": {
+        "data_type": "float64",
+        "non_null_count": 34,
+        "null_count": 0,
+        "unique_count": 17,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.285324593075444
+      },
+      "0.0756454760844487_标准化": {
+        "data_type": "float64",
+        "non_null_count": 34,
+        "null_count": 0,
+        "unique_count": 16,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.291171056690928
+      },
+      "0.07976688972875574_标准化": {
+        "data_type": "float64",
+        "non_null_count": 34,
+        "null_count": 0,
+        "unique_count": 17,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.2918070595701436
+      },
+      "0.08413604503176364_标准化": {
+        "data_type": "float64",
+        "non_null_count": 34,
+        "null_count": 0,
+        "unique_count": 16,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.2914317594721582
+      },
+      "0.09007634587431085_标准化": {
+        "data_type": "float64",
+        "non_null_count": 34,
+        "null_count": 0,
+        "unique_count": 16,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.290639291741997
+      },
+      "0.1007470517298085_标准化": {
+        "data_type": "float64",
+        "non_null_count": 34,
+        "null_count": 0,
+        "unique_count": 17,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.29010301285881884
+      },
+      "0.1068088104583851_标准化": {
+        "data_type": "float64",
+        "non_null_count": 34,
+        "null_count": 0,
+        "unique_count": 17,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.2908549760020397
+      },
+      "0.1172104001416711_标准化": {
+        "data_type": "float64",
+        "non_null_count": 34,
+        "null_count": 0,
+        "unique_count": 17,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.28821148273180885
+      },
+      "0.1243965869859856_标准化": {
+        "data_type": "float64",
+        "non_null_count": 34,
+        "null_count": 0,
+        "unique_count": 17,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.2865731030939514
+      },
+      "0.1376115031428707_标准化": {
+        "data_type": "float64",
+        "non_null_count": 34,
+        "null_count": 0,
+        "unique_count": 17,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.285324593075444
+      }
+    }
+  },
+  "年度数据 (10).xlsx": {
+    "file_name": "年度数据 (10).xlsx",
+    "created_at": "2026-04-15 08:06:30",
+    "columns": {
+      "指标": {
+        "data_type": "str",
+        "non_null_count": 15,
+        "null_count": 0,
+        "unique_count": 15
+      }
+    }
+  },
+  "年度数据 (11).xlsx": {
+    "file_name": "年度数据 (11).xlsx",
+    "created_at": "2026-04-15 08:06:30",
+    "columns": {
+      "指标": {
+        "data_type": "str",
+        "non_null_count": 23,
+        "null_count": 0,
+        "unique_count": 23
+      }
+    }
+  },
+  "年度数据 (6).xlsx": {
+    "file_name": "年度数据 (6).xlsx",
+    "created_at": "2026-04-15 08:06:30",
+    "columns": {
+      "指标": {
+        "data_type": "str",
+        "non_null_count": 11,
+        "null_count": 0,
+        "unique_count": 11
+      }
+    }
+  },
+  "年度数据 (7).xlsx": {
+    "file_name": "年度数据 (7).xlsx",
+    "created_at": "2026-04-15 08:06:30",
+    "columns": {
+      "指标": {
+        "data_type": "str",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 9
+      }
+    }
+  },
+  "年度数据 (8).xlsx": {
+    "file_name": "年度数据 (8).xlsx",
+    "created_at": "2026-04-15 08:06:30",
+    "columns": {
+      "指标": {
+        "data_type": "str",
+        "non_null_count": 10,
+        "null_count": 0,
+        "unique_count": 10
+      }
+    }
+  },
+  "年度数据 (9).xlsx": {
+    "file_name": "年度数据 (9).xlsx",
+    "created_at": "2026-04-15 08:06:30",
+    "columns": {
+      "指标": {
+        "data_type": "str",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 8
+      }
+    }
+  },
+  "能源_年度数据 (10)_已处理_20260415_080332.xlsx": {
+    "file_name": "能源_年度数据 (10)_已处理_20260415_080332.xlsx",
+    "created_at": "2026-04-15 08:06:30",
+    "columns": {
+      "指标": {
+        "data_type": "str",
+        "non_null_count": 13,
+        "null_count": 0,
+        "unique_count": 13
+      },
+      "308525.7": {
+        "data_type": "float64",
+        "non_null_count": 13,
+        "null_count": 0,
+        "unique_count": 1,
+        "min": 308525.7,
+        "max": 308525.7,
+        "mean": 308525.70000000007
+      },
+      "19.8": {
+        "data_type": "float64",
+        "non_null_count": 13,
+        "null_count": 0,
+        "unique_count": 1,
+        "min": 19.8,
+        "max": 19.8,
+        "mean": 19.800000000000004
+      },
+      "169943.595": {
+        "data_type": "float64",
+        "non_null_count": 13,
+        "null_count": 0,
+        "unique_count": 13,
+        "min": 8.5,
+        "max": 117290.32500000001,
+        "mean": 29441.45192307693
+      },
+      "159449.64": {
+        "data_type": "float64",
+        "non_null_count": 13,
+        "null_count": 0,
+        "unique_count": 13,
+        "min": 8.4,
+        "max": 115904.1,
+        "mean": 27779.243076923078
+      },
+      "163353.99125": {
+        "data_type": "float64",
+        "non_null_count": 13,
+        "null_count": 0,
+        "unique_count": 13,
+        "min": 8.8,
+        "max": 116576.45000000001,
+        "mean": 27925.462307692316
+      },
+      "159147.14125": {
+        "data_type": "float64",
+        "non_null_count": 13,
+        "null_count": 0,
+        "unique_count": 13,
+        "min": 8.4,
+        "max": 120689.95000000001,
+        "mean": 27331.05461538461
+      },
+      "153932.18875": {
+        "data_type": "float64",
+        "non_null_count": 13,
+        "null_count": 0,
+        "unique_count": 13,
+        "min": 8.0,
+        "max": 115978.75,
+        "mean": 26529.63153846154
+      },
+      "144333.46": {
+        "data_type": "float64",
+        "non_null_count": 13,
+        "null_count": 0,
+        "unique_count": 13,
+        "min": 7.6,
+        "max": 109204.0,
+        "mean": 25231.15846153846
+      },
+      "137752.635": {
+        "data_type": "float64",
+        "non_null_count": 13,
+        "null_count": 0,
+        "unique_count": 13,
+        "min": 6.9,
+        "max": 109266.6,
+        "mean": 24480.453846153847
+      },
+      "134675.62125": {
+        "data_type": "float64",
+        "non_null_count": 13,
+        "null_count": 0,
+        "unique_count": 13,
+        "min": 6.1,
+        "max": 113561.70000000001,
+        "mean": 24295.354615384615
+      },
+      "0": {
+        "data_type": "float64",
+        "non_null_count": 13,
+        "null_count": 0,
+        "unique_count": 1,
+        "min": 0.0,
+        "max": 0.0,
+        "mean": 0.0
+      },
+      "1": {
+        "data_type": "float64",
+        "non_null_count": 13,
+        "null_count": 0,
+        "unique_count": 13,
+        "min": 0.0,
+        "max": 0.8432167794611506,
+        "mean": 0.18036192889031016
+      },
+      "308525.7_标准化": {
+        "data_type": "int64",
+        "non_null_count": 13,
+        "null_count": 0,
+        "unique_count": 1,
+        "min": 0.0,
+        "max": 0.0,
+        "mean": 0.0
+      },
+      "19.8_标准化": {
+        "data_type": "int64",
+        "non_null_count": 13,
+        "null_count": 0,
+        "unique_count": 1,
+        "min": 0.0,
+        "max": 0.0,
+        "mean": 0.0
+      },
+      "169943.595_标准化": {
+        "data_type": "float64",
+        "non_null_count": 13,
+        "null_count": 0,
+        "unique_count": 13,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.2509591910176784
+      },
+      "159449.64_标准化": {
+        "data_type": "float64",
+        "non_null_count": 13,
+        "null_count": 0,
+        "unique_count": 13,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.2396192704036739
+      },
+      "163353.99125_标准化": {
+        "data_type": "float64",
+        "non_null_count": 13,
+        "null_count": 0,
+        "unique_count": 13,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.23948893460314513
+      },
+      "159147.14125_标准化": {
+        "data_type": "float64",
+        "non_null_count": 13,
+        "null_count": 0,
+        "unique_count": 13,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.22640291424318476
+      },
+      "153932.18875_标准化": {
+        "data_type": "float64",
+        "non_null_count": 13,
+        "null_count": 0,
+        "unique_count": 13,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.22869242061866066
+      },
+      "144333.46_标准化": {
+        "data_type": "float64",
+        "non_null_count": 13,
+        "null_count": 0,
+        "unique_count": 13,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.23099258273659626
+      },
+      "137752.635_标准化": {
+        "data_type": "float64",
+        "non_null_count": 13,
+        "null_count": 0,
+        "unique_count": 13,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.2239943350215481
+      },
+      "134675.62125_标准化": {
+        "data_type": "float64",
+        "non_null_count": 13,
+        "null_count": 0,
+        "unique_count": 13,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.21389746181944894
+      },
+      "0_标准化": {
+        "data_type": "int64",
+        "non_null_count": 13,
+        "null_count": 0,
+        "unique_count": 1,
+        "min": 0.0,
+        "max": 0.0,
+        "mean": 0.0
+      },
+      "1_标准化": {
+        "data_type": "float64",
+        "non_null_count": 13,
+        "null_count": 0,
+        "unique_count": 13,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.21389746181944896
+      }
+    }
+  },
+  "能源_年度数据 (11)_已处理_20260415_080332.xlsx": {
+    "file_name": "能源_年度数据 (11)_已处理_20260415_080332.xlsx",
+    "created_at": "2026-04-15 08:06:30",
+    "columns": {
+      "指标": {
+        "data_type": "str",
+        "non_null_count": 21,
+        "null_count": 0,
+        "unique_count": 21
+      },
+      "617000": {
+        "data_type": "float64",
+        "non_null_count": 21,
+        "null_count": 0,
+        "unique_count": 1,
+        "min": 617000.0,
+        "max": 617000.0,
+        "mean": 617000.0
+      },
+      "596000": {
+        "data_type": "float64",
+        "non_null_count": 21,
+        "null_count": 0,
+        "unique_count": 1,
+        "min": 596000.0,
+        "max": 596000.0,
+        "mean": 596000.0
+      },
+      "586847": {
+        "data_type": "float64",
+        "non_null_count": 21,
+        "null_count": 0,
+        "unique_count": 16,
+        "min": -20760.0,
+        "max": 347469.5,
+        "mean": 103813.26190476191
+      },
+      "553787": {
+        "data_type": "float64",
+        "non_null_count": 21,
+        "null_count": 0,
+        "unique_count": 16,
+        "min": -13759.0,
+        "max": 285455.0,
+        "mean": 87051.47619047618
+      },
+      "533841": {
+        "data_type": "float64",
+        "non_null_count": 21,
+        "null_count": 0,
+        "unique_count": 16,
+        "min": -4959.0,
+        "max": 297526.0,
+        "mean": 90793.95238095238
+      },
+      "502854": {
+        "data_type": "float64",
+        "non_null_count": 21,
+        "null_count": 0,
+        "unique_count": 16,
+        "min": -11784.0,
+        "max": 298032.5,
+        "mean": 89223.83333333333
+      },
+      "493178": {
+        "data_type": "float64",
+        "non_null_count": 21,
+        "null_count": 0,
+        "unique_count": 16,
+        "min": -9052.0,
+        "max": 283947.0,
+        "mean": 86049.14285714286
+      },
+      "471686": {
+        "data_type": "float64",
+        "non_null_count": 21,
+        "null_count": 0,
+        "unique_count": 16,
+        "min": -4623.0,
+        "max": 263796.0,
+        "mean": 80314.66666666667
+      },
+      "450444": {
+        "data_type": "float64",
+        "non_null_count": 21,
+        "null_count": 0,
+        "unique_count": 16,
+        "min": -5383.0,
+        "max": 236680.0,
+        "mean": 72833.33333333333
+      },
+      "434121": {
+        "data_type": "float64",
+        "non_null_count": 21,
+        "null_count": 0,
+        "unique_count": 16,
+        "min": -7371.0,
+        "max": 210814.0,
+        "mean": 65831.80952380953
+      },
+      "0": {
+        "data_type": "float64",
+        "non_null_count": 21,
+        "null_count": 0,
+        "unique_count": 1,
+        "min": 0.0,
+        "max": 0.0,
+        "mean": 0.0
+      },
+      "1": {
+        "data_type": "float64",
+        "non_null_count": 21,
+        "null_count": 0,
+        "unique_count": 16,
+        "min": 0.0,
+        "max": 0.5833960536009398,
+        "mean": 0.18935775014862286
+      },
+      "0.9994984765438109": {
+        "data_type": "float64",
+        "non_null_count": 21,
+        "null_count": 0,
+        "unique_count": 16,
+        "min": 0.0,
+        "max": 0.5632570066394151,
+        "mean": 0.17823528095106195
+      },
+      "0.9883285271351445": {
+        "data_type": "float64",
+        "non_null_count": 21,
+        "null_count": 0,
+        "unique_count": 16,
+        "min": 0.0,
+        "max": 0.5248433468485073,
+        "mean": 0.16958941335472635
+      },
+      "0.9835785083644676": {
+        "data_type": "float64",
+        "non_null_count": 21,
+        "null_count": 0,
+        "unique_count": 16,
+        "min": 0.0,
+        "max": 0.4860837271060434,
+        "mean": 0.16308497141401612
+      },
+      "617000_标准化": {
+        "data_type": "int64",
+        "non_null_count": 21,
+        "null_count": 0,
+        "unique_count": 1,
+        "min": 0.0,
+        "max": 0.0,
+        "mean": 0.0
+      },
+      "596000_标准化": {
+        "data_type": "int64",
+        "non_null_count": 21,
+        "null_count": 0,
+        "unique_count": 1,
+        "min": 0.0,
+        "max": 0.0,
+        "mean": 0.0
+      },
+      "586847_标准化": {
+        "data_type": "float64",
+        "non_null_count": 21,
+        "null_count": 0,
+        "unique_count": 16,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.33830331873128555
+      },
+      "553787_标准化": {
+        "data_type": "float64",
+        "non_null_count": 21,
+        "null_count": 0,
+        "unique_count": 16,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3369176448644655
+      },
+      "533841_标准化": {
+        "data_type": "float64",
+        "non_null_count": 21,
+        "null_count": 0,
+        "unique_count": 16,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3165543824683948
+      },
+      "502854_标准化": {
+        "data_type": "float64",
+        "non_null_count": 21,
+        "null_count": 0,
+        "unique_count": 16,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3260247060222206
+      },
+      "493178_标准化": {
+        "data_type": "float64",
+        "non_null_count": 21,
+        "null_count": 0,
+        "unique_count": 16,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.32457838715197956
+      },
+      "471686_标准化": {
+        "data_type": "float64",
+        "non_null_count": 21,
+        "null_count": 0,
+        "unique_count": 16,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.31643686425575934
+      },
+      "450444_标准化": {
+        "data_type": "float64",
+        "non_null_count": 21,
+        "null_count": 0,
+        "unique_count": 16,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3231238699567192
+      },
+      "434121_标准化": {
+        "data_type": "float64",
+        "non_null_count": 21,
+        "null_count": 0,
+        "unique_count": 16,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.335507984159358
+      },
+      "0_标准化": {
+        "data_type": "int64",
+        "non_null_count": 21,
+        "null_count": 0,
+        "unique_count": 1,
+        "min": 0.0,
+        "max": 0.0,
+        "mean": 0.0
+      },
+      "1_标准化": {
+        "data_type": "float64",
+        "non_null_count": 21,
+        "null_count": 0,
+        "unique_count": 16,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3245783871519795
+      },
+      "0.9994984765438109_标准化": {
+        "data_type": "float64",
+        "non_null_count": 21,
+        "null_count": 0,
+        "unique_count": 16,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.31643686425575934
+      },
+      "0.9883285271351445_标准化": {
+        "data_type": "float64",
+        "non_null_count": 21,
+        "null_count": 0,
+        "unique_count": 16,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3231238699567192
+      },
+      "0.9835785083644676_标准化": {
+        "data_type": "float64",
+        "non_null_count": 21,
+        "null_count": 0,
+        "unique_count": 16,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.335507984159358
+      }
+    }
+  },
+  "能源_年度数据 (6)_已处理_20260415_080332.xlsx": {
+    "file_name": "能源_年度数据 (6)_已处理_20260415_080332.xlsx",
+    "created_at": "2026-04-15 08:06:30",
+    "columns": {
+      "指标": {
+        "data_type": "str",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 9
+      },
+      "576.8625000000001": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 9,
+        "min": 10.1,
+        "max": 488.25,
+        "mean": 135.02777777777777
+      },
+      "543.2875": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 9,
+        "min": 5.7,
+        "max": 457.00000000000006,
+        "mean": 125.7888888888889
+      },
+      "529.9375": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 9,
+        "min": 9.6,
+        "max": 472.75,
+        "mean": 127.50555555555555
+      },
+      "486.6875": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 9,
+        "min": 9.1,
+        "max": 452.45000000000005,
+        "mean": 121.47222222222223
+      },
+      "471.25": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 9,
+        "min": 8.4,
+        "max": 441.40000000000003,
+        "mean": 118.69999999999999
+      },
+      "447.8124999999999": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 9,
+        "min": 7.7,
+        "max": 412.9,
+        "mean": 112.45555555555555
+      },
+      "412.6": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 9,
+        "min": 6.6,
+        "max": 386.65,
+        "mean": 106.53888888888889
+      },
+      "384.625": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 9,
+        "min": 5.7,
+        "max": 371.20000000000005,
+        "mean": 102.62222222222223
+      },
+      "1": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 9,
+        "min": 0.0,
+        "max": 0.9645708253612194,
+        "mean": 0.2557820735560394
+      },
+      "576.8625000000001_标准化": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 9,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.2612731941394495
+      },
+      "543.2875_标准化": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 9,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.2660954772632149
+      },
+      "529.9375_标准化": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 9,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.25457315244641165
+      },
+      "486.6875_标准化": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 9,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.2534616493114294
+      },
+      "471.25_标准化": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 9,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.25473441108545036
+      },
+      "447.8124999999999_标准化": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 9,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.25852802456948554
+      },
+      "412.6_标准化": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 9,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.26296247569764214
+      },
+      "384.625_标准化": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 9,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.2651770785833713
+      },
+      "1_标准化": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 9,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.26517707858337125
+      }
+    }
+  },
+  "能源_年度数据 (7)_已处理_20260415_080332.xlsx": {
+    "file_name": "能源_年度数据 (7)_已处理_20260415_080332.xlsx",
+    "created_at": "2026-04-15 08:06:30",
+    "columns": {
+      "指标": {
+        "data_type": "str",
+        "non_null_count": 7,
+        "null_count": 0,
+        "unique_count": 7
+      },
+      "69831": {
+        "data_type": "float64",
+        "non_null_count": 7,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 2.0,
+        "max": 22543.75,
+        "mean": 6293.964285714285
+      },
+      "69383.5": {
+        "data_type": "float64",
+        "non_null_count": 7,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 2.0,
+        "max": 23388.0,
+        "mean": 6539.428571428572
+      },
+      "64516.625": {
+        "data_type": "float64",
+        "non_null_count": 7,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 3.0,
+        "max": 22283.75,
+        "mean": 6265.964285714285
+      },
+      "60952.5": {
+        "data_type": "float64",
+        "non_null_count": 7,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 12.0,
+        "max": 21641.25,
+        "mean": 6114.607142857143
+      },
+      "57930.5": {
+        "data_type": "float64",
+        "non_null_count": 7,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 23.0,
+        "max": 21069.0,
+        "mean": 5954.142857142857
+      },
+      "56087.125": {
+        "data_type": "float64",
+        "non_null_count": 7,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 25.0,
+        "max": 21828.75,
+        "mean": 6183.964285714285
+      },
+      "52825.5": {
+        "data_type": "float64",
+        "non_null_count": 7,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 28.0,
+        "max": 22589.75,
+        "mean": 6381.392857142857
+      },
+      "51306.375": {
+        "data_type": "float64",
+        "non_null_count": 7,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 26.0,
+        "max": 22059.0,
+        "mean": 6199.428571428572
+      },
+      "1": {
+        "data_type": "float64",
+        "non_null_count": 7,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 0.0,
+        "max": 0.4296575444309836,
+        "mean": 0.12038579225344144
+      },
+      "69831_标准化": {
+        "data_type": "float64",
+        "non_null_count": 7,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.27912492533695415
+      },
+      "69383.5_标准化": {
+        "data_type": "float64",
+        "non_null_count": 7,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.27954453824632564
+      },
+      "64516.625_标准化": {
+        "data_type": "float64",
+        "non_null_count": 7,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.2810930639998333
+      },
+      "60952.5_标准化": {
+        "data_type": "float64",
+        "non_null_count": 7,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.2821460357089193
+      },
+      "57930.5_标准化": {
+        "data_type": "float64",
+        "non_null_count": 7,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.2818180584026826
+      },
+      "56087.125_标准化": {
+        "data_type": "float64",
+        "non_null_count": 7,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.28247270702123656
+      },
+      "52825.5_标准化": {
+        "data_type": "float64",
+        "non_null_count": 7,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.2816001798239435
+      },
+      "51306.375_标准化": {
+        "data_type": "float64",
+        "non_null_count": 7,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.280190104453709
+      },
+      "1_标准化": {
+        "data_type": "float64",
+        "non_null_count": 7,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.280190104453709
+      }
+    }
+  },
+  "能源_年度数据 (8)_已处理_20260415_080333.xlsx": {
+    "file_name": "能源_年度数据 (8)_已处理_20260415_080333.xlsx",
+    "created_at": "2026-04-15 08:06:30",
+    "columns": {
+      "指标": {
+        "data_type": "str",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 8
+      },
+      "3393.4": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 1,
+        "min": 3393.4,
+        "max": 3393.4,
+        "mean": 3393.4
+      },
+      "3347.7": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 1,
+        "min": 3347.7,
+        "max": 3347.7,
+        "mean": 3347.7
+      },
+      "3284": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 2188.5,
+        "max": 4816.5,
+        "mean": 3437.375
+      },
+      "3024": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 1714.0,
+        "max": 4930.0,
+        "mean": 3250.875
+      },
+      "2886": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 1617.5,
+        "max": 4679.1,
+        "mean": 3079.5375000000004
+      },
+      "2822": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 1635.5,
+        "max": 4559.5,
+        "mean": 3034.8125
+      },
+      "2701": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 1544.5,
+        "max": 4455.700000000001,
+        "mean": 2950.0750000000003
+      },
+      "2570": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 1412.5,
+        "max": 4376.5,
+        "mean": 2857.0625
+      },
+      "2493": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 1373.25,
+        "max": 4265.65,
+        "mean": 2795.7749999999996
+      },
+      "0": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 1,
+        "min": 0.0,
+        "max": 0.0,
+        "mean": 0.0
+      },
+      "0.4168569254185693": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.475218797564688
+      },
+      "0.4073383084577115": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.4778840174129353
+      },
+      "0.4143258426966293": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.4775403383851581
+      },
+      "0.4057797537619699": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.4785610465116279
+      },
+      "0.3972588623248145": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.48281636438582026
+      },
+      "0.3905195681511471": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.4873692645074224
+      },
+      "0.3871352510026275": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.4918147559120454
+      },
+      "3393.4_标准化": {
+        "data_type": "int64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 1,
+        "min": 0.0,
+        "max": 0.0,
+        "mean": 0.0
+      },
+      "3347.7_标准化": {
+        "data_type": "int64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 1,
+        "min": 0.0,
+        "max": 0.0,
+        "mean": 0.0
+      },
+      "3284_标准化": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.475218797564688
+      },
+      "3024_标准化": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.4778840174129353
+      },
+      "2886_标准化": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.4775403383851581
+      },
+      "2822_标准化": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.4785610465116279
+      },
+      "2701_标准化": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.4828163643858202
+      },
+      "2570_标准化": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.4873692645074224
+      },
+      "2493_标准化": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.4918147559120454
+      },
+      "0_标准化": {
+        "data_type": "int64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 1,
+        "min": 0.0,
+        "max": 0.0,
+        "mean": 0.0
+      },
+      "0.4168569254185693_标准化": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.475218797564688
+      },
+      "0.4073383084577115_标准化": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.4778840174129353
+      },
+      "0.4143258426966293_标准化": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.4775403383851581
+      },
+      "0.4057797537619699_标准化": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.4785610465116279
+      },
+      "0.3972588623248145_标准化": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.48281636438582026
+      },
+      "0.3905195681511471_标准化": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.4873692645074224
+      },
+      "0.3871352510026275_标准化": {
+        "data_type": "float64",
+        "non_null_count": 8,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.4918147559120454
+      }
+    }
+  },
+  "能源_年度数据 (9)_已处理_20260415_080333.xlsx": {
+    "file_name": "能源_年度数据 (9)_已处理_20260415_080333.xlsx",
+    "created_at": "2026-04-15 08:06:30",
+    "columns": {
+      "指标": {
+        "data_type": "str",
+        "non_null_count": 6,
+        "null_count": 0,
+        "unique_count": 6
+      },
+      "501": {
+        "data_type": "float64",
+        "non_null_count": 6,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 2.7,
+        "max": 73.5375,
+        "mean": 34.18958333333333
+      },
+      "498": {
+        "data_type": "float64",
+        "non_null_count": 6,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 2.6,
+        "max": 67.70625000000001,
+        "mean": 34.29270833333334
+      },
+      "476": {
+        "data_type": "float64",
+        "non_null_count": 6,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 3.1,
+        "max": 67.50625,
+        "mean": 35.209374999999994
+      },
+      "456": {
+        "data_type": "float64",
+        "non_null_count": 6,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 3.5,
+        "max": 73.11874999999999,
+        "mean": 37.32812499999999
+      },
+      "439": {
+        "data_type": "float64",
+        "non_null_count": 6,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 3.3,
+        "max": 77.74374999999999,
+        "mean": 37.565625
+      },
+      "431": {
+        "data_type": "float64",
+        "non_null_count": 6,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 3.4,
+        "max": 93.02499999999999,
+        "mean": 41.90416666666667
+      },
+      "412": {
+        "data_type": "float64",
+        "non_null_count": 6,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 3.7,
+        "max": 116.50625000000001,
+        "mean": 47.909375000000004
+      },
+      "392": {
+        "data_type": "float64",
+        "non_null_count": 6,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 4.5,
+        "max": 123.07499999999999,
+        "mean": 48.6625
+      },
+      "0.7766823831975997": {
+        "data_type": "float64",
+        "non_null_count": 6,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 0.11041187702139266,
+        "mean": 0.04908168699424593
+      },
+      "0.7852896885154949": {
+        "data_type": "float64",
+        "non_null_count": 6,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 0.10320401046207499,
+        "mean": 0.050238104673588545
+      },
+      "0.7874448422279577": {
+        "data_type": "float64",
+        "non_null_count": 6,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 0.10724544167846142,
+        "mean": 0.05346661393722422
+      },
+      "0.783210731285158": {
+        "data_type": "float64",
+        "non_null_count": 6,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 0.1204997836434444,
+        "mean": 0.058551492860233666
+      },
+      "0.7749911063678405": {
+        "data_type": "float64",
+        "non_null_count": 6,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 0.13241506581287796,
+        "mean": 0.060949172892209184
+      },
+      "0.7605157847932414": {
+        "data_type": "float64",
+        "non_null_count": 6,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 0.15940417963539352,
+        "mean": 0.06848228842448496
+      },
+      "0.73713666726846": {
+        "data_type": "float64",
+        "non_null_count": 6,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 0.20365815129084675,
+        "mean": 0.07981472287416502
+      },
+      "0.7256894049346879": {
+        "data_type": "float64",
+        "non_null_count": 6,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 0.2220609579100145,
+        "mean": 0.08270518282691137
+      },
+      "501_标准化": {
+        "data_type": "float64",
+        "non_null_count": 6,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.44453267454855605
+      },
+      "498_标准化": {
+        "data_type": "float64",
+        "non_null_count": 6,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.4867844228984672
+      },
+      "476_标准化": {
+        "data_type": "float64",
+        "non_null_count": 6,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.4985443959243086
+      },
+      "456_标准化": {
+        "data_type": "float64",
+        "non_null_count": 6,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.48590537750246887
+      },
+      "439_标准化": {
+        "data_type": "float64",
+        "non_null_count": 6,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.46028880866426
+      },
+      "431_标准化": {
+        "data_type": "float64",
+        "non_null_count": 6,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.4296141329614134
+      },
+      "412_标准化": {
+        "data_type": "float64",
+        "non_null_count": 6,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3919053687184886
+      },
+      "392_标准化": {
+        "data_type": "float64",
+        "non_null_count": 6,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3724436010963525
+      },
+      "0.7766823831975997_标准化": {
+        "data_type": "float64",
+        "non_null_count": 6,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.44453267454855605
+      },
+      "0.7852896885154949_标准化": {
+        "data_type": "float64",
+        "non_null_count": 6,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.48678442289846724
+      },
+      "0.7874448422279577_标准化": {
+        "data_type": "float64",
+        "non_null_count": 6,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.4985443959243086
+      },
+      "0.783210731285158_标准化": {
+        "data_type": "float64",
+        "non_null_count": 6,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.48590537750246887
+      },
+      "0.7749911063678405_标准化": {
+        "data_type": "float64",
+        "non_null_count": 6,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.46028880866426
+      },
+      "0.7605157847932414_标准化": {
+        "data_type": "float64",
+        "non_null_count": 6,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.4296141329614133
+      },
+      "0.73713666726846_标准化": {
+        "data_type": "float64",
+        "non_null_count": 6,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3919053687184886
+      },
+      "0.7256894049346879_标准化": {
+        "data_type": "float64",
+        "non_null_count": 6,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3724436010963525
+      }
+    }
+  },
+  "年度数据 (12).xlsx": {
+    "file_name": "年度数据 (12).xlsx",
+    "created_at": "2026-04-15 08:06:30",
+    "columns": {
+      "指标": {
+        "data_type": "str",
+        "non_null_count": 6,
+        "null_count": 0,
+        "unique_count": 6
+      }
+    }
+  },
+  "年度数据 (13).xlsx": {
+    "file_name": "年度数据 (13).xlsx",
+    "created_at": "2026-04-15 08:06:30",
+    "columns": {
+      "指标": {
+        "data_type": "str",
+        "non_null_count": 13,
+        "null_count": 0,
+        "unique_count": 13
+      }
+    }
+  },
+  "年度数据 (14).xlsx": {
+    "file_name": "年度数据 (14).xlsx",
+    "created_at": "2026-04-15 08:06:30",
+    "columns": {
+      "指标": {
+        "data_type": "str",
+        "non_null_count": 14,
+        "null_count": 0,
+        "unique_count": 14
+      }
+    }
+  },
+  "年度数据 (15).xlsx": {
+    "file_name": "年度数据 (15).xlsx",
+    "created_at": "2026-04-15 08:06:31",
+    "columns": {
+      "指标": {
+        "data_type": "str",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4
+      }
+    }
+  },
+  "年度数据 (16).xlsx": {
+    "file_name": "年度数据 (16).xlsx",
+    "created_at": "2026-04-15 08:06:31",
+    "columns": {
+      "指标": {
+        "data_type": "str",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 9
+      }
+    }
+  },
+  "年度数据 (17).xlsx": {
+    "file_name": "年度数据 (17).xlsx",
+    "created_at": "2026-04-15 08:06:31",
+    "columns": {
+      "指标": {
+        "data_type": "str",
+        "non_null_count": 11,
+        "null_count": 0,
+        "unique_count": 11
+      }
+    }
+  },
+  "年度数据 (18).xlsx": {
+    "file_name": "年度数据 (18).xlsx",
+    "created_at": "2026-04-15 08:06:31",
+    "columns": {
+      "指标": {
+        "data_type": "str",
+        "non_null_count": 7,
+        "null_count": 0,
+        "unique_count": 7
+      }
+    }
+  },
+  "资源与环境_年度数据 (12)_已处理_20260415_080333.xlsx": {
+    "file_name": "资源与环境_年度数据 (12)_已处理_20260415_080333.xlsx",
+    "created_at": "2026-04-15 08:06:31",
+    "columns": {
+      "指标": {
+        "data_type": "str",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4
+      },
+      "31123": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 2208.9,
+        "max": 29895.6,
+        "mean": 15017.775000000001
+      },
+      "25782.5": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 1827.6,
+        "max": 21858.537500000002,
+        "mean": 9537.834375
+      },
+      "27088.1": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 1918.2,
+        "max": 22705.887499999997,
+        "mean": 9842.296874999998
+      },
+      "29638.2": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 2098.5,
+        "max": 24547.562500000004,
+        "mean": 10427.440625000001
+      },
+      "31605.2": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 2239.8,
+        "max": 25927.55,
+        "mean": 11019.037500000002
+      },
+      "29041": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 2062.9,
+        "max": 24044.5125,
+        "mean": 10360.678125
+      },
+      "27462.5": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 1957.7,
+        "max": 23184.449999999997,
+        "mean": 10123.962499999998
+      },
+      "28761.2": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 2059.9,
+        "max": 23942.9375,
+        "mean": 10401.784375
+      },
+      "32466.4": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 2339.4,
+        "max": 26651.575,
+        "mean": 11377.018750000001
+      },
+      "1": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 0.0,
+        "max": 0.8069895774554385,
+        "mean": 0.2999840259567829
+      },
+      "31123_标准化": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.46263639220275443
+      },
+      "25782.5_标准化": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3849163013463548
+      },
+      "27088.1_标准化": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3811918413243417
+      },
+      "29638.2_标准化": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3710150757965951
+      },
+      "31605.2_标准化": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.37062352903927137
+      },
+      "29041_标准化": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3774872350697657
+      },
+      "27462.5_标准化": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3847156300422816
+      },
+      "28761.2_标准化": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3812032207594581
+      },
+      "32466.4_标准化": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3717322185283711
+      },
+      "1_标准化": {
+        "data_type": "float64",
+        "non_null_count": 4,
+        "null_count": 0,
+        "unique_count": 4,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3717322185283711
+      }
+    }
+  },
+  "资源与环境_年度数据 (13)_已处理_20260415_080333.xlsx": {
+    "file_name": "资源与环境_年度数据 (13)_已处理_20260415_080333.xlsx",
+    "created_at": "2026-04-15 08:06:31",
+    "columns": {
+      "指标": {
+        "data_type": "str",
+        "non_null_count": 11,
+        "null_count": 0,
+        "unique_count": 11
+      },
+      "5928": {
+        "data_type": "float64",
+        "non_null_count": 11,
+        "null_count": 0,
+        "unique_count": 9,
+        "min": 251.6,
+        "max": 4870.724999999999,
+        "mean": 1729.4136363636367
+      },
+      "5906.5": {
+        "data_type": "float64",
+        "non_null_count": 11,
+        "null_count": 0,
+        "unique_count": 9,
+        "min": 212.3,
+        "max": 4874.6,
+        "mean": 1726.0181818181818
+      },
+      "5998.2": {
+        "data_type": "float64",
+        "non_null_count": 11,
+        "null_count": 0,
+        "unique_count": 10,
+        "min": 175.8,
+        "max": 4997.450000000001,
+        "mean": 1753.8772727272728
+      },
+      "5920.2": {
+        "data_type": "float64",
+        "non_null_count": 11,
+        "null_count": 0,
+        "unique_count": 9,
+        "min": 138.3,
+        "max": 4912.625,
+        "mean": 1737.7954545454545
+      },
+      "5812.9": {
+        "data_type": "float64",
+        "non_null_count": 11,
+        "null_count": 0,
+        "unique_count": 10,
+        "min": 128.1,
+        "max": 4847.25,
+        "mean": 1709.804545454546
+      },
+      "6021.2": {
+        "data_type": "float64",
+        "non_null_count": 11,
+        "null_count": 0,
+        "unique_count": 10,
+        "min": 104.5,
+        "max": 5150.324999999999,
+        "mean": 1797.4750000000001
+      },
+      "6015.5": {
+        "data_type": "float64",
+        "non_null_count": 11,
+        "null_count": 0,
+        "unique_count": 10,
+        "min": 86.4,
+        "max": 5226.85,
+        "mean": 1811.3318181818179
+      },
+      "6043.4": {
+        "data_type": "float64",
+        "non_null_count": 11,
+        "null_count": 0,
+        "unique_count": 10,
+        "min": 81.2,
+        "max": 5351.074999999999,
+        "mean": 1833.1249999999998
+      },
+      "6040.2": {
+        "data_type": "float64",
+        "non_null_count": 11,
+        "null_count": 0,
+        "unique_count": 10,
+        "min": 70.8,
+        "max": 5402.4,
+        "mean": 1843.909090909091
+      },
+      "1": {
+        "data_type": "float64",
+        "non_null_count": 11,
+        "null_count": 0,
+        "unique_count": 10,
+        "min": 0.0,
+        "max": 0.8931550909639161,
+        "mean": 0.29703305037509486
+      },
+      "5928_标准化": {
+        "data_type": "float64",
+        "non_null_count": 11,
+        "null_count": 0,
+        "unique_count": 9,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3199336749630366
+      },
+      "5906.5_标准化": {
+        "data_type": "float64",
+        "non_null_count": 11,
+        "null_count": 0,
+        "unique_count": 9,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3246719820299384
+      },
+      "5998.2_标准化": {
+        "data_type": "float64",
+        "non_null_count": 11,
+        "null_count": 0,
+        "unique_count": 10,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.32728988473391313
+      },
+      "5920.2_标准化": {
+        "data_type": "float64",
+        "non_null_count": 11,
+        "null_count": 0,
+        "unique_count": 9,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3350202289424064
+      },
+      "5812.9_标准化": {
+        "data_type": "float64",
+        "non_null_count": 11,
+        "null_count": 0,
+        "unique_count": 10,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3351672537330972
+      },
+      "6021.2_标准化": {
+        "data_type": "float64",
+        "non_null_count": 11,
+        "null_count": 0,
+        "unique_count": 10,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3355199595705361
+      },
+      "6015.5_标准化": {
+        "data_type": "float64",
+        "non_null_count": 11,
+        "null_count": 0,
+        "unique_count": 10,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3355604700331329
+      },
+      "6043.4_标准化": {
+        "data_type": "float64",
+        "non_null_count": 11,
+        "null_count": 0,
+        "unique_count": 10,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3324414715719064
+      },
+      "6040.2_标准化": {
+        "data_type": "float64",
+        "non_null_count": 11,
+        "null_count": 0,
+        "unique_count": 10,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3325660385079696
+      },
+      "1_标准化": {
+        "data_type": "float64",
+        "non_null_count": 11,
+        "null_count": 0,
+        "unique_count": 10,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.33256603850796956
+      }
+    }
+  },
+  "资源与环境_年度数据 (14)_已处理_20260415_080333.xlsx": {
+    "file_name": "资源与环境_年度数据 (14)_已处理_20260415_080333.xlsx",
+    "created_at": "2026-04-15 08:06:31",
+    "columns": {
+      "指标": {
+        "data_type": "str",
+        "non_null_count": 12,
+        "null_count": 0,
+        "unique_count": 12
+      },
+      "215.365": {
+        "data_type": "float64",
+        "non_null_count": 12,
+        "null_count": 0,
+        "unique_count": 1,
+        "min": 215.365,
+        "max": 215.365,
+        "mean": 215.365
+      },
+      "231.035": {
+        "data_type": "float64",
+        "non_null_count": 12,
+        "null_count": 0,
+        "unique_count": 1,
+        "min": 231.035,
+        "max": 231.035,
+        "mean": 231.03499999999997
+      },
+      "2595.84": {
+        "data_type": "float64",
+        "non_null_count": 12,
+        "null_count": 0,
+        "unique_count": 11,
+        "min": 34.6,
+        "max": 9289.2,
+        "mean": 3226.0625
+      },
+      "2614.73": {
+        "data_type": "float64",
+        "non_null_count": 12,
+        "null_count": 0,
+        "unique_count": 11,
+        "min": 34.47,
+        "max": 9376.045,
+        "mean": 3413.5520833333335
+      },
+      "2564.76": {
+        "data_type": "float64",
+        "non_null_count": 12,
+        "null_count": 0,
+        "unique_count": 11,
+        "min": 34.64,
+        "max": 20893.905,
+        "mean": 6105.896666666667
+      },
+      "132.375": {
+        "data_type": "float64",
+        "non_null_count": 12,
+        "null_count": 0,
+        "unique_count": 1,
+        "min": 132.375,
+        "max": 132.375,
+        "mean": 132.375
+      },
+      "147.355": {
+        "data_type": "float64",
+        "non_null_count": 12,
+        "null_count": 0,
+        "unique_count": 1,
+        "min": 147.355,
+        "max": 147.355,
+        "mean": 147.355
+      },
+      "182.18": {
+        "data_type": "float64",
+        "non_null_count": 12,
+        "null_count": 0,
+        "unique_count": 1,
+        "min": 182.18,
+        "max": 182.18,
+        "mean": 182.18000000000004
+      },
+      "197.825": {
+        "data_type": "float64",
+        "non_null_count": 12,
+        "null_count": 0,
+        "unique_count": 1,
+        "min": 197.825,
+        "max": 197.825,
+        "mean": 197.82499999999996
+      },
+      "0": {
+        "data_type": "float64",
+        "non_null_count": 12,
+        "null_count": 0,
+        "unique_count": 1,
+        "min": 0.0,
+        "max": 0.0,
+        "mean": 0.0
+      },
+      "0.2767531822012837": {
+        "data_type": "float64",
+        "non_null_count": 12,
+        "null_count": 0,
+        "unique_count": 11,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3448514792643658
+      },
+      "0.2762125230488435": {
+        "data_type": "float64",
+        "non_null_count": 12,
+        "null_count": 0,
+        "unique_count": 11,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.36172509275291725
+      },
+      "0.121294781959": {
+        "data_type": "float64",
+        "non_null_count": 12,
+        "null_count": 0,
+        "unique_count": 11,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.29105803424361626
+      },
+      "215.365_标准化": {
+        "data_type": "int64",
+        "non_null_count": 12,
+        "null_count": 0,
+        "unique_count": 1,
+        "min": 0.0,
+        "max": 0.0,
+        "mean": 0.0
+      },
+      "231.035_标准化": {
+        "data_type": "int64",
+        "non_null_count": 12,
+        "null_count": 0,
+        "unique_count": 1,
+        "min": 0.0,
+        "max": 0.0,
+        "mean": 0.0
+      },
+      "2595.84_标准化": {
+        "data_type": "float64",
+        "non_null_count": 12,
+        "null_count": 0,
+        "unique_count": 11,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3448514792643658
+      },
+      "2614.73_标准化": {
+        "data_type": "float64",
+        "non_null_count": 12,
+        "null_count": 0,
+        "unique_count": 11,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.36172509275291725
+      },
+      "2564.76_标准化": {
+        "data_type": "float64",
+        "non_null_count": 12,
+        "null_count": 0,
+        "unique_count": 11,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.29105803424361626
+      },
+      "132.375_标准化": {
+        "data_type": "int64",
+        "non_null_count": 12,
+        "null_count": 0,
+        "unique_count": 1,
+        "min": 0.0,
+        "max": 0.0,
+        "mean": 0.0
+      },
+      "147.355_标准化": {
+        "data_type": "int64",
+        "non_null_count": 12,
+        "null_count": 0,
+        "unique_count": 1,
+        "min": 0.0,
+        "max": 0.0,
+        "mean": 0.0
+      },
+      "182.18_标准化": {
+        "data_type": "int64",
+        "non_null_count": 12,
+        "null_count": 0,
+        "unique_count": 1,
+        "min": 0.0,
+        "max": 0.0,
+        "mean": 0.0
+      },
+      "197.825_标准化": {
+        "data_type": "int64",
+        "non_null_count": 12,
+        "null_count": 0,
+        "unique_count": 1,
+        "min": 0.0,
+        "max": 0.0,
+        "mean": 0.0
+      },
+      "0_标准化": {
+        "data_type": "int64",
+        "non_null_count": 12,
+        "null_count": 0,
+        "unique_count": 1,
+        "min": 0.0,
+        "max": 0.0,
+        "mean": 0.0
+      },
+      "0.2767531822012837_标准化": {
+        "data_type": "float64",
+        "non_null_count": 12,
+        "null_count": 0,
+        "unique_count": 11,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3448514792643658
+      },
+      "0.2762125230488435_标准化": {
+        "data_type": "float64",
+        "non_null_count": 12,
+        "null_count": 0,
+        "unique_count": 11,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.36172509275291725
+      },
+      "0.121294781959_标准化": {
+        "data_type": "float64",
+        "non_null_count": 12,
+        "null_count": 0,
+        "unique_count": 11,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.29105803424361626
+      }
+    }
+  },
+  "资源与环境_年度数据 (15)_已处理_20260415_080333.xlsx": {
+    "file_name": "资源与环境_年度数据 (15)_已处理_20260415_080333.xlsx",
+    "created_at": "2026-04-15 08:06:31",
+    "columns": {
+      "指标": {
+        "data_type": "str",
+        "non_null_count": 2,
+        "null_count": 0,
+        "unique_count": 2
+      },
+      "222.28": {
+        "data_type": "float64",
+        "non_null_count": 2,
+        "null_count": 0,
+        "unique_count": 2,
+        "min": 469.79,
+        "max": 886.61,
+        "mean": 678.2
+      },
+      "237.97": {
+        "data_type": "float64",
+        "non_null_count": 2,
+        "null_count": 0,
+        "unique_count": 2,
+        "min": 498.43,
+        "max": 957.81,
+        "mean": 728.12
+      },
+      "243.52": {
+        "data_type": "float64",
+        "non_null_count": 2,
+        "null_count": 0,
+        "unique_count": 2,
+        "min": 493.38,
+        "max": 895.74,
+        "mean": 694.56
+      },
+      "274.78": {
+        "data_type": "float64",
+        "non_null_count": 2,
+        "null_count": 0,
+        "unique_count": 2,
+        "min": 537.38,
+        "max": 988.38,
+        "mean": 762.88
+      },
+      "318.22": {
+        "data_type": "float64",
+        "non_null_count": 2,
+        "null_count": 0,
+        "unique_count": 2,
+        "min": 611.4,
+        "max": 1019.66,
+        "mean": 815.53
+      },
+      "457.29": {
+        "data_type": "float64",
+        "non_null_count": 2,
+        "null_count": 0,
+        "unique_count": 2,
+        "min": 1088.48,
+        "max": 1233.85,
+        "mean": 1161.165
+      },
+      "516.12": {
+        "data_type": "float64",
+        "non_null_count": 2,
+        "null_count": 0,
+        "unique_count": 2,
+        "min": 1132.26,
+        "max": 1288.44,
+        "mean": 1210.35
+      },
+      "610.84": {
+        "data_type": "float64",
+        "non_null_count": 2,
+        "null_count": 0,
+        "unique_count": 2,
+        "min": 1284.92,
+        "max": 1348.4,
+        "mean": 1316.66
+      },
+      "854.89": {
+        "data_type": "float64",
+        "non_null_count": 2,
+        "null_count": 0,
+        "unique_count": 2,
+        "min": 1503.3,
+        "max": 1608.01,
+        "mean": 1555.655
+      },
+      "0": {
+        "data_type": "float64",
+        "non_null_count": 2,
+        "null_count": 0,
+        "unique_count": 2,
+        "min": 0.8609650520501381,
+        "max": 1.0,
+        "mean": 0.9304825260250691
+      },
+      "222.28_标准化": {
+        "data_type": "float64",
+        "non_null_count": 2,
+        "null_count": 0,
+        "unique_count": 2,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.5
+      },
+      "237.97_标准化": {
+        "data_type": "float64",
+        "non_null_count": 2,
+        "null_count": 0,
+        "unique_count": 2,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.5
+      },
+      "243.52_标准化": {
+        "data_type": "float64",
+        "non_null_count": 2,
+        "null_count": 0,
+        "unique_count": 2,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.5
+      },
+      "274.78_标准化": {
+        "data_type": "float64",
+        "non_null_count": 2,
+        "null_count": 0,
+        "unique_count": 2,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.5
+      },
+      "318.22_标准化": {
+        "data_type": "float64",
+        "non_null_count": 2,
+        "null_count": 0,
+        "unique_count": 2,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.5
+      },
+      "457.29_标准化": {
+        "data_type": "float64",
+        "non_null_count": 2,
+        "null_count": 0,
+        "unique_count": 2,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.5
+      },
+      "516.12_标准化": {
+        "data_type": "float64",
+        "non_null_count": 2,
+        "null_count": 0,
+        "unique_count": 2,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.5
+      },
+      "610.84_标准化": {
+        "data_type": "float64",
+        "non_null_count": 2,
+        "null_count": 0,
+        "unique_count": 2,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.5
+      },
+      "854.89_标准化": {
+        "data_type": "float64",
+        "non_null_count": 2,
+        "null_count": 0,
+        "unique_count": 2,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.5
+      },
+      "0_标准化": {
+        "data_type": "float64",
+        "non_null_count": 2,
+        "null_count": 0,
+        "unique_count": 2,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.5
+      }
+    }
+  },
+  "资源与环境_年度数据 (16)_已处理_20260415_080333.xlsx": {
+    "file_name": "资源与环境_年度数据 (16)_已处理_20260415_080333.xlsx",
+    "created_at": "2026-04-15 08:06:31",
+    "columns": {
+      "指标": {
+        "data_type": "str",
+        "non_null_count": 7,
+        "null_count": 0,
+        "unique_count": 7
+      },
+      "28504.02125": {
+        "data_type": "float64",
+        "non_null_count": 7,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 23.0,
+        "max": 14850.353750000002,
+        "mean": 4490.756249999999
+      },
+      "1": {
+        "data_type": "float64",
+        "non_null_count": 7,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 0.5206047079509131,
+        "mean": 0.15686783878931307
+      },
+      "28504.02125_标准化": {
+        "data_type": "float64",
+        "non_null_count": 7,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.30131851747315325
+      },
+      "1_标准化": {
+        "data_type": "float64",
+        "non_null_count": 7,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3013185174731533
+      }
+    }
+  },
+  "资源与环境_年度数据 (17)_已处理_20260415_080333.xlsx": {
+    "file_name": "资源与环境_年度数据 (17)_已处理_20260415_080333.xlsx",
+    "created_at": "2026-04-15 08:06:31",
+    "columns": {
+      "指标": {
+        "data_type": "str",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 9
+      },
+      "867.46": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 403.45,
+        "max": 5051.29375,
+        "mean": 1894.1697222222222
+      },
+      "1298": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 439.36,
+        "max": 4715.42375,
+        "mean": 1966.105277777778
+      },
+      "1700.16": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 370.51,
+        "max": 4648.147500000001,
+        "mean": 2074.291666666667
+      },
+      "2003.11": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 305.15,
+        "max": 4469.30125,
+        "mean": 2169.2336111111113
+      },
+      "2194.53": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 318.3,
+        "max": 4294.2675,
+        "mean": 2202.195
+      },
+      "1930.02": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 376.47,
+        "max": 4059.23625,
+        "mean": 1999.5958333333333
+      },
+      "1897.52": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 398.59,
+        "max": 4318.895,
+        "mean": 2036.227777777778
+      },
+      "9538.95": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 566.67,
+        "max": 5761.68,
+        "mean": 2530.112222222222
+      },
+      "9219.8": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 8,
+        "min": 532.02,
+        "max": 6478.245,
+        "mean": 2495.7761111111113
+      },
+      "0.09983339048349034": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.32073361377998605
+      },
+      "0.2008014964697381": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3570445547678698
+      },
+      "0.31083746577404": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3982996845026412
+      },
+      "0.4077565626368638": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.4476503131607217
+      },
+      "0.4718926902697269": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.47382052292932475
+      },
+      "0.4218432272208425": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.4407355023776851
+      },
+      "0.3823503528424447": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.417732237103434
+      },
+      "0.8117533181993837": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 0.0,
+        "max": 0.4700105887889119,
+        "mean": 0.17763943378736063
+      },
+      "0.8533214682500363": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 8,
+        "min": 0.0,
+        "max": 0.5840435010491831,
+        "mean": 0.19288186947854516
+      },
+      "867.46_标准化": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.32073361377998605
+      },
+      "1298_标准化": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3570445547678698
+      },
+      "1700.16_标准化": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3982996845026412
+      },
+      "2003.11_标准化": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.4476503131607218
+      },
+      "2194.53_标准化": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.47382052292932475
+      },
+      "1930.02_标准化": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.4407355023776851
+      },
+      "1897.52_标准化": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.417732237103434
+      },
+      "9538.95_标准化": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.37794772718863334
+      },
+      "9219.8_标准化": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 8,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3302525738785719
+      },
+      "0.09983339048349034_标准化": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.32073361377998605
+      },
+      "0.2008014964697381_标准化": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3570445547678698
+      },
+      "0.31083746577404_标准化": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3982996845026412
+      },
+      "0.4077565626368638_标准化": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.4476503131607217
+      },
+      "0.4718926902697269_标准化": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.47382052292932475
+      },
+      "0.4218432272208425_标准化": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.4407355023776851
+      },
+      "0.3823503528424447_标准化": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 6,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.417732237103434
+      },
+      "0.8117533181993837_标准化": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 7,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3779477271886334
+      },
+      "0.8533214682500363_标准化": {
+        "data_type": "float64",
+        "non_null_count": 9,
+        "null_count": 0,
+        "unique_count": 8,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.33025257387857193
+      }
+    }
+  },
+  "资源与环境_年度数据 (18)_已处理_20260415_080333.xlsx": {
+    "file_name": "资源与环境_年度数据 (18)_已处理_20260415_080333.xlsx",
+    "created_at": "2026-04-15 08:06:31",
+    "columns": {
+      "指标": {
+        "data_type": "str",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5
+      },
+      "4797647": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 3856.0,
+        "max": 1569882.0,
+        "mean": 627170.8
+      },
+      "3624239": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 5319.0,
+        "max": 1846427.5,
+        "mean": 685487.9
+      },
+      "2857077": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 4213.0,
+        "max": 987382.5,
+        "mean": 372041.7
+      },
+      "3352364": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 5437.0,
+        "max": 1765318.5,
+        "mean": 579340.3
+      },
+      "4542586": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 7405.0,
+        "max": 2423725.0,
+        "mean": 908517.2
+      },
+      "6151513": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 14168.0,
+        "max": 3676995.0,
+        "mean": 1230302.4
+      },
+      "6212736": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 15181.0,
+        "max": 3328924.0,
+        "mean": 1122111.0
+      },
+      "6815345": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 12862.0,
+        "max": 3430561.5,
+        "mean": 1156655.7
+      },
+      "8190041": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 6236.0,
+        "max": 2005888.0,
+        "mean": 916245.2
+      },
+      "1": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 0.2443425765887629,
+        "mean": 0.11119634448768027
+      },
+      "4797647_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3980232767527487
+      },
+      "3624239_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.36943444669339154
+      },
+      "2857077_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.37412541784504094
+      },
+      "3352364_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3261033768466798
+      },
+      "4542586_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.37292750960137727
+      },
+      "6151513_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.33202070422654417
+      },
+      "6212736_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3340421994101534
+      },
+      "6815345_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.3346677202018492
+      },
+      "8190041_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.4550837845785166
+      },
+      "1_标准化": {
+        "data_type": "float64",
+        "non_null_count": 5,
+        "null_count": 0,
+        "unique_count": 5,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.4550837845785166
+      }
+    }
+  }
+}
