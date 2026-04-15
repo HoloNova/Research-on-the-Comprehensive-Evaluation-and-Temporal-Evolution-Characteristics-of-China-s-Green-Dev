@@ -1,0 +1,151 @@
+var index
+// $('.select-list ul li').each(function(idx, el) {
+// 	$(el).click(function() {
+// 		$(el).children('div').addClass('select-active-icon')
+// 		if (index === idx) {
+// 			$('.select-item-list ul').hide()
+// 			$('.select-item-list').hide()
+// 			$(el).removeClass('select-active')
+// 			$(el).children('div').removeClass('select-active-icon')
+// 			index = undefined
+// 		} else {
+// 			index = idx
+// 			$(el).siblings().removeClass('select-active')
+// 			$(el).addClass('select-active')
+// 			$('.select-item-list').show()
+// 			$('.select-item-list ul').hide()
+// 			$($('.select-item-list ul')[idx]).show()
+// 			$(el).siblings().children('div').removeClass('select-active-icon')
+// 		}
+// 	})
+// })
+$('.select-list ul li').click(function() {
+	var _index = $(this).index();
+	if ($(this).hasClass('select-active')) {
+		$(this).removeClass('select-active');
+		$(this).find('div').removeClass('select-active-icon');
+		$('.select-item-list-w .select-item-list').eq(_index).slideUp();
+	} else {
+		$(this).siblings().removeClass('select-active');
+		$(this).siblings().find('div').removeClass('select-active-icon');
+		$('.select-item-list-w .select-item-list').eq(_index).siblings().slideUp();
+		
+		$(this).addClass('select-active');
+		$(this).find('div').addClass('select-active-icon');
+		$('.select-item-list-w .select-item-list').eq(_index).slideDown();
+	}
+});
+
+
+// $('.select-list1 ul li').each(function(idx, el) {
+// 	$(el).click(function() {
+// 		$('#newgwybmbox').show()
+// 		$($('.select_con')[idx]).show()
+// 	})
+// })
+$('.footer-select-list .select-list1 ul li').click(function(){
+	var _index = $(this).index();
+	$('#newgwybmbox').show()
+	$('#newgwybmbox .select_con').eq(_index).show().siblings().hide();
+});
+$('.select-list1 ul li').each(function(idx, el) {
+	$(el).click(function() {
+		$('#newgwybmbox').show()
+		$($('.select_con')[idx]).show()
+	})
+})
+$('.select_con1').click(function() {
+	$('#newgwybmbox').hide()
+	$('.select_con').hide()
+})
+$('#newgwybmbox').click(function() {
+	$('#newgwybmbox').hide()
+	$('.select_con').hide()
+})
+
+$('.wrapper-nav ul li').not('.menu_list_ul li').each(function(idx, el) {
+	if (idx !== 0) {
+		$(el).mouseover(function() {
+			$(el).css('background', '#0a3a6c')
+		})
+		$(el).mouseout(function() {
+			$(el).css('background', 'none')
+		})
+	}
+	if (idx === 2) {
+		$(el).mouseover(function() {
+			$('.wrapper-nav ul li div').show()
+		})
+		$('.wrapper-nav ul li div').mouseover(function() {
+			$('.wrapper-nav ul li div').show()
+		})
+		$(el).mouseout(function() {
+			$('.wrapper-nav ul li div').hide()
+		})
+		$('.wrapper-nav ul li div').mouseout(function() {
+			$('.wrapper-nav ul li div').hide()
+		})
+	}
+
+})
+
+var userAgentInfo = navigator.userAgent;
+var Agents = [
+	"Android",
+	"iPhone",
+	"SymbianOS",
+	"Windows Phone",
+	"iPad",
+	"iPod",
+];
+
+function IsPC() {
+	var flag = true;
+	for (var v = 0; v < Agents.length; v++) {
+		if (userAgentInfo.indexOf(Agents[v]) > 0) {
+			flag = false;
+			break;
+		}
+	}
+	return flag;
+}
+
+//细览微信分享用
+~function(){
+	if(!$('#bshare-custom-ID').length){
+		return;
+	}	
+	function wxShareImgFn(){
+		if($('.wxEwmC_20240109').length){
+			$('#wxEwmID_20240109').toggle();
+			return;
+		}
+
+		var _htmlStr = '<div class="wxEwmC_20240109" id="wxEwmID_20240109">'+
+			'<div class="close" id="close_ID_20240109">x</div>'+
+		'</div>'
+		;
+		$('body').append(_htmlStr);
+
+		var qrcode = new QRCode($('#wxEwmID_20240109').get(0),
+			{
+				width:$('#wxEwmID_20240109').width(),
+				height:$('#wxEwmID_20240109').height(),
+			}
+		);
+		qrcode.makeCode(location.href);
+
+
+		$('#wxEwmID_20240109').append('<div class="tt">用微信“扫一扫”，点击右上角分享按钮，即可将网页分享给您的微信好友或朋友圈</div>')
+
+
+		$('#close_ID_20240109').click(function(){
+			$('#wxEwmID_20240109').toggle();
+		});
+	}
+	$('#bshare-weixin-ID').click(function(){
+		wxShareImgFn();
+	});
+
+}();
+
